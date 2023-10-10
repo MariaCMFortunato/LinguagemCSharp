@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{451303D6-A821-403B-ACB2-23A872785B47}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaDoisInteiros", "MediaDoisInteiros\MediaDoisInteiros.csproj", "{17BC5BE2-78E2-474A-A749-A17EA3988B3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valorComIva", "valorComIva\valorComIva.csproj", "{2D1A3D5F-E822-41FE-AAB7-4636FD4A9876}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{451303D6-A821-403B-ACB2-23A872785B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{451303D6-A821-403B-ACB2-23A872785B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{451303D6-A821-403B-ACB2-23A872785B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{451303D6-A821-403B-ACB2-23A872785B47}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17BC5BE2-78E2-474A-A749-A17EA3988B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17BC5BE2-78E2-474A-A749-A17EA3988B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BC5BE2-78E2-474A-A749-A17EA3988B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
