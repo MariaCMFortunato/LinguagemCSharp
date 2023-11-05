@@ -23,6 +23,7 @@ namespace Tarefa04Hipotenusa
             Console.WriteLine("Cateto A: " + cateto1.ToString("0.00"));
             Console.WriteLine("Cateto B: " + cateto2.ToString("0.00"));
             Console.WriteLine("Hipotenusa: " + hipotenusa.ToString("0.00"));
+			Console.WriteLine("Prima qualquer tecla sair ... ");
             Console.ReadKey();
 
         }
