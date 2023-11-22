@@ -1,0 +1,10 @@
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\bin\Debug\Tarefa17_01Sites_Versao2.exe.config
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\bin\Debug\Tarefa17_01Sites_Versao2.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\bin\Debug\Tarefa17_01Sites_Versao2.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.Properties.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.csproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\Tarefa17_01Sites_Versao2\obj\Debug\Tarefa17_01Sites_Versao2.pdb

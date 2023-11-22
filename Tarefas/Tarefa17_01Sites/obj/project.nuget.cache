@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NhKGd2RXqVPVBVHni61h+ohdySZwM2merGzxskbOn3N38t0l5+U2m2EQ/NPjXtXBiK8lOPFe1c9BkRNW6+AU1w==",
+  "success": true,
+  "projectFilePath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\Tarefas\\Tarefa17_01Sites\\Tarefa17_01Sites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria11\\.nuget\\packages\\microsoft.web.webview2\\1.0.2194-prerelease\\microsoft.web.webview2.1.0.2194-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}

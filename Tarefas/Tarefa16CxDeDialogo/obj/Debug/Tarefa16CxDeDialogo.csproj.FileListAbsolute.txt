@@ -1,0 +1,10 @@
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\bin\Debug\Tarefa16CxDeDialogo.exe.config
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\bin\Debug\Tarefa16CxDeDialogo.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\bin\Debug\Tarefa16CxDeDialogo.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.Properties.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.csproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa16CxDeDialogo\obj\Debug\Tarefa16CxDeDialogo.pdb

@@ -1,0 +1,10 @@
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.exe.config
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.Properties.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.pdb

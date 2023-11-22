@@ -14,7 +14,8 @@ namespace Tarefa12Classe
 
             Console.Write("Digite o primeiro valor: ");
             A = int.Parse(Console.ReadLine());
-
+			/*int.TryParse(Console.ReadLine(), out a); no caso de errro de digitação
+			 o programa continua */
             Console.Write("Digite o segundo valor: ");
             B = int.Parse(Console.ReadLine());
 

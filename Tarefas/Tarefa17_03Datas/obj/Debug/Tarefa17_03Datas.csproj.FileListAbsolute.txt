@@ -1,0 +1,10 @@
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.Properties.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.csproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\bin\Debug\Tarefa17_03Datas.exe.config
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\bin\Debug\Tarefa17_03Datas.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\bin\Debug\Tarefa17_03Datas.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_03Datas\obj\Debug\Tarefa17_03Datas.pdb

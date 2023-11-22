@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tarefa17_01Sites/1.0.0": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.2194-prerelease"
+        },
+        "runtime": {
+          "Tarefa17_01Sites.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2194-prerelease": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2194.0",
+            "fileVersion": "1.0.2194.0"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2194.0",
+            "fileVersion": "1.0.2194.0"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2194.0",
+            "fileVersion": "1.0.2194.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2194.0"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2194.0"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2194.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa17_01Sites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.2194-prerelease": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KMdEsm7njXt6fIAjZZzRUB3RRzRQhoOdxqTjoJgWJIsdyvnYz8Ultm2TXpogH6hJ3bSePwlglPytqaOmwiTwLw==",
+      "path": "microsoft.web.webview2/1.0.2194-prerelease",
+      "hashPath": "microsoft.web.webview2.1.0.2194-prerelease.nupkg.sha512"
+    }
+  }
+}

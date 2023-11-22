@@ -1,0 +1,1980 @@
+                                  <!DOCTYPE html>
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+<html class="ltr" dir="ltr" lang="pt-PT" prefix="og: http://ogp.me/ns#">
+<head>
+<script type="text/javascript">
+(function(){
+window["loaderConfig"] = "/TSPD/?type=20";
+})();
+
+</script>
+
+<script type="text/javascript" src="/TSPD/?type=18"></script>
+
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.roWA=!!window.roWA;try{(function(){(function(){})();var b=83;try{var ba,ka,oa=c(745)?0:1,Ta=c(947)?0:1,Ua=c(859)?0:1,Ya=c(528)?0:1,bb=c(228)?1:0,db=c(971)?0:1,eb=c(885)?0:1,gb=c(503)?0:1,Oa=c(462)?0:1;for(var sa=(c(961),0);sa<ka;++sa)oa+=(c(770),2),Ta+=(c(162),2),Ua+=(c(980),2),Ya+=(c(521),2),bb+=(c(844),2),db+=(c(708),2),eb+=c(422)?1:2,gb+=c(720)?1:2,Oa+=c(311)?1:3;ba=oa+Ta+Ua+Ya+bb+db+eb+gb+Oa;window.Qa===ba&&(window.Qa=++ba)}catch(a){window.Qa=ba}var e=!0;
+function f(a){var d=arguments.length,g=[];for(var h=1;h<d;++h)g.push(arguments[h]-a);return String.fromCharCode.apply(String,g)}function ua(a){var d=83;a&&(document[f(d,201,188,198,188,181,188,191,188,199,204,166,199,180,199,184)]&&document[p(d,201,188,198,188,181,188,191,188,199,204,166,199,180,199,184)]!==t(68616527583,d)||(e=!1));return e}function p(a){var d=arguments.length,g=[];for(var h=1;h<d;h++)g[h-1]=arguments[h]-a;return String.fromCharCode.apply(String,g)}function wa(){}
+ua(window[wa[p(b,193,180,192,184)]]===wa);ua(typeof ie9rgb4!==t(1242178186116,b));ua(RegExp("\x3c")[p(b,199,184,198,199)](function(){return"\x3c"})&!RegExp(t(42806,b))[t(1372122,b)](function(){return"'x3'+'d';"}));
+var za=window[f(b,180,199,199,180,182,187,152,201,184,193,199)]||RegExp(f(b,192,194,181,188,207,180,193,183,197,194,188,183),t(-65,b))[t(1372122,b)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),Aa=+new Date+(c(948)?889287:6E5),Ba,Ca,Da,Ha=window[p(b,198,184,199,167,188,192,184,194,200,199)],Ja=za?c(474)?37019:3E4:c(598)?6179:6E3;
+document[f(b,180,183,183,152,201,184,193,199,159,188,198,199,184,193,184,197)]&&document[p(b,180,183,183,152,201,184,193,199,159,188,198,199,184,193,184,197)](p(b,201,188,198,188,181,188,191,188,199,204,182,187,180,193,186,184),function(a){var d=27;document[p(d,145,132,142,132,125,132,135,132,143,148,110,143,124,143,128)]&&(document[f(d,145,132,142,132,125,132,135,132,143,148,110,143,124,143,128)]===t(1058781956,d)&&a[p(d,132,142,111,141,144,142,143,128,127)]?Da=!0:document[p(d,145,132,142,132,125,
+132,135,132,143,148,110,143,124,143,128)]===f(d,145,132,142,132,125,135,128)&&(Ba=+new Date,Da=!1,y()))});function y(){if(!document[f(49,162,166,150,163,170,132,150,157,150,148,165,160,163)])return!0;var a=+new Date;if(a>Aa&&(c(764)?367331:6E5)>a-Ba)return ua(!1);var d=ua(Ca&&!Da&&Ba+Ja<a);Ba=a;Ca||(Ca=!0,Ha(function(){Ca=!1},c(434)?0:1));return d}y();var La=[c(340)?17247033:17795081,c(648)?2147483647:27611931586,c(108)?1558153217:1251307960];
+function Ma(a){var d=55;a=typeof a===t(1743045621,d)?a:a[p(d,171,166,138,171,169,160,165,158)](c(383)?51:36);var g=window[a];if(!g||!g[p(d,171,166,138,171,169,160,165,158)])return;var h=""+g;window[a]=function(k,l){Ca=!1;return g(k,l)};window[a][p(d,171,166,138,171,169,160,165,158)]=function(){return h}}for(var Oa=(c(691),0);Oa<La[t(1294399122,b)];++Oa)Ma(La[Oa]);ua(!1!==window[p(b,197,194,170,148)]);window.Ga=window.Ga||{};window.Ga.Xi="088fb7b43916e800261a25d8503036c880648412e3b4035438619e91f8306de2f727d6af59844e0460f3827737049559c76facf354fc2f179c05be58f0c2fe819383fb27435b6d713ee6d87ddeba322bc84e1c9578ae5a38f2c427a74215dba2e8edb9a075878f04768d5ceb53174a4a1b8764fc3fbdb33e3f3c027f7d54869d7c912e6b0abb7b34a2dc5edae37cdcc6b62002c6fa9807c3e3bd6254cc472903773f58a431a89782f53301458eea3c702985fef3765375d090b7c54777e422abf00f150beceb219e2759626224ee68e4f4540de5d23f3c48d269676aeb9a8f98e785f1d61fc678ec71ef6adc80078b8b";
+function t(a,d){a+=d;return a.toString(36)}function B(a){var d=+new Date;if(!document[p(86,199,203,187,200,207,169,187,194,187,185,202,197,200,151,194,194)]||d>Aa&&(c(780)?823189:6E5)>d-Ba)var g=ua(!1);else g=ua(Ca&&!Da&&Ba+Ja<d),Ba=d,Ca||(Ca=!0,Ha(function(){Ca=!1},c(749)?0:1));return!(arguments[a]^g)}function c(a){return 243>a}(function hb(a){return a?0:hb(a)*hb(a)})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/082e784de1ab20002405806fb4e3e4247cf2e8a59e3812c2c8cc034c4155e9f3b8d79afe93a02768?type=17"></script>
+
+	<!--<meta name="google-translate-customization" content="667f033b02ae8e32-d404dedd8c83348a-g647a9b83bd77a605-12">-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+				<script src="https://www.iefp.pt/Public-theme/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+			<script defer src="https://www.iefp.pt/Public-theme/js/bootstrap.min.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/bootstrap-modal-3.0.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/bootstrap-paginator.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/jquery.easing.min.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/bootstrap-tabcollapse.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/graphics.js" type="text/javascript"></script>
+		<script defer src="https://www.iefp.pt/Public-theme/js/mail.js" type="text/javascript"></script>
+		<script defer src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" type="text/javascript"></script>
+	
+	                                  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+                                            <meta content="O IEFP é o serviço público de emprego nacional. Tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas activas de emprego, nomeadamente de formação profissional." lang="pt-PT" name="description" />
+	   <meta content="IEFP, Formação Profissional,Ofertas Emprego, Medidas Apoio Incentivo, ATIVAR.PT, Estágios, Qualifica, Ofertas Formação, Worldskills Portugal, Centros Qualifica, Centro Emprego, Serviço Emprego, IEFP Contactos, Regresso a Portugal, EURES, Programa Regressar" lang="pt-PT" name="keywords" />
+	   <link href="https://www.iefp.pt/Public-theme/images/favicon.ico" rel="Shortcut Icon" />
+
+  <link href="https&#x3a;&#x2f;&#x2f;www&#x2e;iefp&#x2e;pt" rel="canonical" />
+
+	   <link href="https&#x3a;&#x2f;&#x2f;www&#x2e;iefp&#x2e;pt&#x2f;en" hreflang="en-US" rel="alternate" />
+
+		 <link href="https&#x3a;&#x2f;&#x2f;www&#x2e;iefp&#x2e;pt&#x2f;en_GB" hreflang="en-GB" rel="alternate" />
+
+		    <link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;Public_WAR_Publictheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;pt_PT&#x26;b&#x3d;6102&#x26;t&#x3d;1376383422000" rel="stylesheet" type="text/css" />
+
+     <link href="https://www.iefp.pt/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=Public_WAR_Publictheme&amp;minifierType=css&amp;languageId=pt_PT&amp;b=6102&amp;t=1698510769000" rel="stylesheet" type="text/css" />
+
+	    <script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return false;
+				},
+				getMajorVersion: function() {
+					return 119.0;
+				},
+				getRevision: function() {
+					return "537.36";
+				},
+				getVersion: function() {
+					return "119.0.0.0";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return true;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return true;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return true;
+				},
+				isSafari: function() {
+					return true;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return true;
+				},
+				isWindows: function() {
+					return true;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					 
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNBaseURL: function() {
+					return "https://www.iefp.pt";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10193";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "10723";
+				},
+
+				
+					getLayoutId: function() {
+						return "2";
+					},
+					getLayoutURL: function() {
+						return "https://www.iefp.pt/home";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+					isVirtualLayout: function() {
+						return false;
+					},
+				
+
+				getScopeGroupId: function() {
+					return "10181";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "10181";
+				},
+				getParentGroupId: function() {
+					return "10181";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "pt_PT";
+				},
+				getLanguageId: function() {
+					return "pt_PT";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "https://www.iefp.pt/Public-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/Public-theme";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=10181&refererPlid=10723";
+				},
+				getURLHome: function() {
+					return "https\x3a\x2f\x2fwww\x2eiefp\x2ept\x2fweb\x2fguest";
+				},
+				getSessionId: function() {
+					  
+							return "";
+						 
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=Public_WAR_Publictheme&colorSchemeId=01&minifierType=js&languageId=pt_PT&b=6102&t=1698510962000';
+			},
+			getBaseURL: function() {
+				return 'https://www.iefp.pt/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=pt_PT&b=6102&t=1698510962000&p=/html/js&';
+			},
+			getFilter: function() {
+				 
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					   
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=Public_WAR_Publictheme&colorSchemeId=01&minifierType=js&languageId=pt_PT&b=6102&t=1698510962000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		Liferay.authToken = 'gDYce1qU';
+
+		
+
+		Liferay.currentURL = '\x2f';
+		Liferay.currentURLEncoded = '%2F';
+	// ]]>
+</script>
+
+    <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=Public_WAR_Publictheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=pt_PT&amp;b=6102&amp;t=1698510962000" type="text/javascript"></script>
+			       <script type="text/javascript">
+	// <![CDATA[
+		  
+				Liferay.Portlet.list = ['56_INSTANCE_crifMw3RGZfb'];
+			   
+	// ]]>
+</script>
+
+   <script type="text/javascript">
+		var _gaq = _gaq || [];
+
+		_gaq.push(['_setAccount', 'G-T24RTZTV27']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script');
+
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			ga.type = 'text/javascript';
+
+			var s = document.getElementsByTagName('script')[0];
+
+			s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+           <link class="lfr-css-file" href="https&#x3a;&#x2f;&#x2f;www&#x2e;iefp&#x2e;pt&#x2f;Public-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;Public_WAR_Publictheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;pt_PT&#x26;b&#x3d;6102&#x26;t&#x3d;1699022825000" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+		#hpSlideOfertasForm .oferta a:hover p {
+  color: white !important;
+} </style>
+   <style type="text/css">
+
+		   </style>
+ 
+	
+	<link href="/Public-theme/css/bootstrap.css" rel="stylesheet">
+	<link href="/Public-theme/css/bootstrap-responsive.css" rel="stylesheet">
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" href="/Public-theme/css/iefp.css">
+	
+	<title>Home - IEFP, I.P.</title>
+	
+		
+		
+		    <!-- Facebook --> 
+	        <meta property="og:type" content="website" />
+	        <meta property="og:image" content="https://www.iefp.pt/documents/10181/294952/iefpcinzalogo.jpg/565adea7-4dd8-4254-9a66-70ded38e1078?t=1406217627133"/>
+	        <meta property="og:image:type" content="image/jpeg">
+	        <meta property="og:image:width" content="160">
+	        <meta property="og:image:height" content="100">
+
+	
+	
+</head>
+
+<body class=" yui3-skin-sam controls-visible guest-site signed-out public-page site">
+
+	<a class="tabonly" id="jumpTo" href="#breadcrumb">Saltar para conte&uacute;do principal</a>
+	<a class="tabonly" id="activateAA" href="javascript: void(0);" onclick="alteraAcessibilidade();">Activar modo acessibilidade</a>
+	<a class="tabonly" id="saberMaisSobreAA" href="/acessibilidade">Saber mais sobre modo acessibilidade</a>
+	
+		
+		
+	<script type="text/javascript">
+		var isLocalAccess = "false" == "true"; // workaround for parsing velocity variable to boolean
+	</script>
+	
+	                                                                    
+
+		
+		
+	
+	<div class="wrapper">  
+		<div class="container printable">
+			<div id="printHeader">iefp.pt - Instituto de Emprego e Forma&ccedil;&atilde;o Profissional</div>
+		</div>
+		<header class="mainheader">
+							<!--desktop section-->
+<section class="top visible-desktop">
+    <div class="container">
+        <div class="row-fluid topstuff">
+            <div class="span3">
+            	<h1 class="displaynone">Portal IEFP.PT</h1>
+                <h2 class="mainlogo">
+                	<a href="/home" title="Voltar ao in&iacute;cio"><img src="/Public-theme/images/_img/mainlogo.png" width="171" height="38" alt="Logotipo. Voltar ao in&iacute;cio"></a>                	                	
+                </h2>
+                
+            </div>
+            
+            <div class="span3">
+            	<a href="/50-anos" title="50 anos de políticas de emprego e formação Profissional"><img src="/Public-theme/images/_img/25_50_Anos_MTSS.png" style="height: 50px; margin-top: -7px;" alt="50 anos de políticas de emprego e formação Profissional"></a>
+            </div>
+            
+            <div class="span3">
+            	<a class="pull-right" href='https://iefponline.iefp.pt/IEFP/' title="Iefponline"><img class="iefponline_logo" src="https://www.iefp.pt/Public-theme/images/_img/banner_iefponline/iefponline_text.png" alt="Logo Iefponline"></a>
+            </div>
+            <div class="span3">
+                <div class="mainsearch">
+                                                                  <!-- Action pagina da pesquisa -->
+
+<form action="https://www.iefp.pt/pesquisa?p_p_id=3&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_3_struts_action=%2Fsearch%2Fsearch&_3_redirect=%2F" method="get" name="ctem_3_fm" onSubmit="ctem_3_search(); return false;">
+<input name="p_p_id" type="hidden" value="3" /><input name="p_p_lifecycle" type="hidden" value="0" /><input name="p_p_state" type="hidden" value="maximized" /><input name="p_p_mode" type="hidden" value="view" /><input name="_3_struts_action" type="hidden" value="&#x2f;search&#x2f;search" /><input name="_3_redirect" type="hidden" value="&#x2f;" />  <label for="_3__search" class="collapsed">termos de pesquisa</label>
+	<input id="_3__search" autocomplete="off" name="_3_keywords" data-provide="typeahead" title="Pesquisa" type="text" value="" />
+	 
+	
+	<select class="displaynone" name="_3_groupId" title="Âmbito ">
+		<option value="0" selected>Tudo</option>
+		<option value="10181" >This Site</option>
+	</select>
+	
+	 <button id="_3__sbmit" type="submit" value="Submit" class="lupa social"></button>
+
+ <script defer type="text/javascript" src="/pesquisa-service-portlet/js/typeahead.js"></script></form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--mobile section-->
+<section class="top visible-tablet visible-phone mobileheader">
+    <div class="borderset">
+		<div class="menutrigger">
+			<span class="barra"></span>
+            <span class="barra"></span>
+            <span class="barra"></span>
+		</div>
+		<h1 class="displaynone">Portal IEFP.PT</h1>
+		<h2 class="mainlogo text-center" title="Voltar ao in&iacute;cio">
+			<a href="/home" title="Voltar ao in&iacute;cio">
+				<img src="/Public-theme/images/_img/mainlogo.png" width="171" height="38" alt="Logotipo. Voltar ao in&iacute;cio">
+			</a>
+			
+			<a href="/50-anos" title="50 anos de políticas de emprego e formação Profissional">
+				<img src="/Public-theme/images/_img/25_50_Anos_MTSS.png" style="height: 28px;" alt="50 anos de políticas de emprego e formação Profissional">
+			</a>
+			
+			<a href='https://iefponline.iefp.pt/IEFP/' title="Iefponline">
+				<img class="iefponline_logo" src="https://www.iefp.pt/Public-theme/images/_img/banner_iefponline/iefponline_text.png" alt="Logo Iefponline">
+			</a>
+		</h2>
+    </div>
+    <div class="mainsearch">
+        
+    </div>
+</section>
+
+<!--
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||                                                                              ||
+||		WARNING: MENU HAS 2 VERSIONS - DESKTOP AND MOBILE - UPDATE BOTH			||
+||                                                                              ||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-->
+
+   
+<section class="mobilemenu">
+	<ul class="mobul">
+    	<li class="iefp">
+            <a href="/iefp" >O IEFP</a>
+            <nav class=" submenu subiefp">
+                <h6>Quem somos</h6>
+                <a href="/instituicao" >Institui&ccedil;&atilde;o</a>
+                <a href="/historia">Hist&oacute;ria</a>
+                <a href="/recursos-humanos">Recursos Humanos</a>
+                <h6>Planeamento e gest&atilde;o</h6>
+                <a href="/instrumentos-gestao">Instrumentos de gest&atilde;o</a>
+                <a href="/informacoes">Informa&ccedil;&otilde;es</a>
+                <h6>Estat&iacute;sticas</h6>
+                <a href="/estatisticas">Estat&iacute;sticas</a>
+				<h6>Rede de Servi&ccedil;os</h6>
+                <a href="/redecentros">Rede de Servi&ccedil;os</a>
+                <h6>Comunica&ccedil;&atilde;o</h6>
+                <a href="/noticias">Destaques / Not&iacute;cias</a>
+                <a target="_blank" href="/canal-externo-de-denuncias">Canal Externo de Den&uacute;ncias</a>
+                <a href="/mediateca">Mediateca</a>
+                <a href="/publicacoes-iefp?tab=dirigir-formar" >Revista Dirigir&Formar</a>
+                <a href="/media">Media</a>
+                <h6>Regulamento Geral Proteção de Dados</h6>
+                <a href="/rgpd" >RGPD</a>
+                <a href="/politica-de-privacidade-de-dados-pessoais">Política de Privacidade de Dados Pessoais</a>
+            </nav>
+        </li>
+        <li class="emprego">
+            <a href="/emprego" >Emprego</a>
+            <nav class="submenu subemprego">
+                <h6>Servi&ccedil;os ao Cidad&atilde;o</h6>
+                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaEmprego' target="_blank" >Ofertas de emprego</a>
+                <a href="/inscricao-para-emprego" >Inscri&ccedil;&atilde;o para emprego</a>
+                <a href="/procurar-emprego" >Como procurar emprego</a>
+                <a href="/apoios-emprego" >Apoios ao emprego</a>
+                <a href="/trabalhar-no-estrangeiro" >Trabalhar no estrangeiro</a>
+                <a href="/subsidio-desemprego" >Subs&iacute;dio de desemprego</a>
+                <a href="/declaracoes" >Declara&ccedil;&otilde;es</a>
+                <a href="/comissao-de-recursos" >Comiss&atilde;o de Recursos</a>
+                <a href="/regresso-a-portugal" >Regresso a Portugal</a>
+                <h6>Servi&ccedil;os ao Empregador</h6>
+                <a href="/registar-ofertas-emprego" >Registar ofertas de emprego</a>
+                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=cv' target="_blank" >Procurar trabalhadores</a>
+                <a href="/apoios-incentivos" >Apoios e incentivos</a>
+                <a href="/candidatura-apoios" >Candidaturas a apoios</a>
+                <a href="/recrutar-no-estrangeiro" >Recrutar no estrangeiro</a>
+				<a href="/obrigacoes-legais" >Obriga&ccedil;&otilde;es legais</a>
+				<h6>Servi&ccedil;os online</h6>
+				<a href="/servicos-online" >Cidad&atilde;o e Empregador</a>
+                <h6>Servi&ccedil;os transversais</h6>
+                <a href="/gabinetes-de-insercao-profissional" >Gabinetes de Inser&ccedil;&atilde;o Profissional</a>
+                <a href="/estruturas-de-servicos-apoio" >Estruturas e servi&ccedil;os de apoio</a>
+                <a href="/empresas-trabalho-temporario" >Empresas de Trabalho Tempor&aacute;rio</a>
+                <a href="/agencias-privadas-colocacao" >Ag&ecirc;ncias Privadas de Coloca&ccedil;&atilde;o</a> 
+                <a href="/eures" >EURES - Rede europeia de emprego</a>
+                <a href="/promocao-artesanato" >Promo&ccedil;&atilde;o do artesanato</a>
+                <a href="/projetos-e-iniciativas" >Projetos e iniciativas</a>
+                <a href="/documentacao" >Documenta&ccedil;&atilde;o</a>
+            </nav>
+        </li>
+        <li class="formacao">
+            <a href="/formacao" >Forma&ccedil;&atilde;o</a>
+            <nav class=" submenu subformacao">
+                <h6>Servi&ccedil;os ao cidad&atilde;o</h6>
+                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaFormacao' target="_blank" >Ofertas de forma&ccedil;&atilde;o</a>
+                <a href="/certificacao-de-formadores">Certifica&ccedil;&atilde;o de formadores</a>
+				<a href="/microsoft-office-365-do-iefp" >Acesso gratuito ao Office 365</a>
+				<h6>Centros Qualifica</h6>
+				<a href="/rvcc" >RVCC</a>
+                <h6>FORMA&Ccedil;&Atilde;O PROFISSIONAL</h6>
+                <a href="/modalidades-de-formacao" >Modalidades de Forma&ccedil;&atilde;o</a>
+                <a href="/formacao-para-pessoas-com-deficiencia-e-incapacidades" >Pessoas com defici&ecirc;ncia e incapacidade</a>
+                <h6>Entidades Formadoras</h6>
+                <a href="/cursos-de-aprendizagem">Aprendizagem</a>
+                <a href="/cursos-de-especializacao-tecnologica-cet">Especializa&ccedil;&atilde;o tecnol&oacute;gica (CET)</a>
+                <a href="/medida-vida-ativa">Vida ativa</a>
+                <a href="/qualificacao-de-pessoas-com-deficiencia-e-incapacidade" >Qualifica&ccedil;&atilde;o de pessoas com defici&ecirc;ncia e incapacidade</a>
+                <a href="/formacao-pedagogica-de-formadores">Forma&ccedil;&atilde;o de formadores</a>
+                <a href="/formador-digital">Formador + Digital</a>
+                <a href="/cheque-formacao-digital" >Cheque-Formação + Digital</a>
+                <a href="/formacao-emprego-digital" >Formação Emprego + Digital</a>   
+				<h6>Candidaturas</h6>
+				<a href="/programa-trabalhos-competencias-verdes-green-skills-jobs">Trabalhos e Competências Verdes / Green Skills & Jobs</a>
+				<a href="/programa-qualifica-industria">Programa Qualifica Indústria</a>
+				<a href="/bolsa-efe-medidas-formacao" >Bolsa de Entidades Formadoras Externas</a>        
+				<a href="/rede-parceiros-aprendizagem">Rede de Parceiros de Excelência para a Aprendizagem</a>
+				<h6>Gera&ccedil;&atilde;o Pro</h6>
+                <a href="/geracao-pro" >Gera&ccedil;&atilde;o Pro</a>
+				<h6>Instrumentos de apoio</h6>
+                <a href="/referenciais-formacao" >Referenciais de forma&ccedil;&atilde;o</a>
+                <a href="/areas-e-saidas-profissionais-prioritarias">&Aacute;reas priorit&aacute;rias</a>
+                <a href="/legislacao">Legisla&ccedil;&atilde;o</a>
+                <a href="/regulamento-da/o-formanda/o" >Regulamento da/o Formanda/o</a>
+                <a href="/guia-apoios-sociais">Guia de Apoios Sociais</a>
+                <a href="/guia-de-acompanhamento-efe" target="_blank">Guia de acompanhamento EFE</a>
+                <!--<a href="/documentos-normativos">Documentos normativos</a>-->
+                <h6>Campeonatos</h6>
+                <a target="_blank" href="http://skillsportugal.iefp.pt/Destaques.aspx" class="line2" >Skills Portugal</a>
+            </nav>
+        </li>
+        <li class="apoios">
+            <a href="/apoios" >Apoios</a>
+            <nav class=" submenu subapoios">
+                <h6>Medidas de apoio</h6>
+                <a href="/apoios-a-contratacao" >Apoios &agrave; contrata&ccedil;&atilde;o</a>
+				<a href="/apoio-ao-regresso-de-emigrantes" >Apoio ao regresso de emigrantes</a>
+				<a href="/cheque-formacao" >Cheque-Forma&ccedil;&atilde;o</a>
+				<a href="/formador-digital">Formador + Digital</a>
+				<a href="/cheque-formacao-digital" >Cheque-Formação + Digital</a>   
+				<a href="/formacao-emprego-digital" >Formação Emprego + Digital</a>       
+				<a href="/ativar.pt" >ATIVAR.PT</a>  
+				<a href="/covid19" >COVID 19 - medidas</a>                      
+				<a href="/empreendedorismo" >Empreendedorismo</a>
+				<a href="/emprego-insercao" >Emprego-Inser&ccedil;&atilde;o</a>
+				<a href="/emprego-jovem-ativo" >Emprego Jovem Ativo</a>
+				<a href="/estagios" >Est&aacute;gios</a>
+				<a href="/incentivo-a-aceitacao-de-ofertas" >Incentivo &agrave; aceita&ccedil;&atilde;o de ofertas</a>
+				<a href="/apoio-mobilidade-geografica" >Mobilidade geogr&aacute;fica</a>
+				<a href="/promocao-das-artes-e-oficios" >Promo&ccedil;&atilde;o das artes e of&iacute;cios</a>
+				<a href="/reabilitacao-profissional" >Reabilita&ccedil;&atilde;o profissional</a>
+				<a href="/regionais-e-setoriais" >Regionais e setoriais</a>
+                <a href="/qualificacao-de-ativos-empregados" >Qualificação de Ativos Empregados</a>
+                <a href="/medidas-revogadas-em-execucao" >Medidas revogadas</a>
+                <a href="/lay-off">Situação de crise empresarial (Lay-off)</a>
+                <h6>Candidaturas</h6>
+                <a href="/medidas-de-emprego" >Medidas de emprego</a>
+                <!-- <a href="/medidas-de-formacao">Medidas de forma&ccedil;&atilde;o</a> -->
+                <a href="/medidas-de-reabilitacao-PT2020-" >Reabilita&ccedil;&atilde;o (PORTUGAL 2020 &ndash; POISE e POR LISBOA 2020</a>
+                <a href="/credenciacao-de-entidades" >Credencia&ccedil;&atilde;o de entidades</a>
+                <a href="/premios" >Pr&eacute;mios</a>
+				<h6>PORTUGAL 2020</h6>      
+				<a href="/normas-informacao-publicidade" >Normas de informa&ccedil;&atilde;o e publicidade</a>
+				<a href="/projetos-cofinanciados-pela-uniao-europeia" >Projetos Cofinanciados pela Uni&atilde;o Europeia (UE)</a>
+				<h6>PLANO DE RECUPERAÇÃO E RESILIÊNCIA</h6>   
+				<a href="/prr-investimentos">Plano de Recuperação e Resiliência (PRR)</a>
+                <h6>Formul&aacute;rios</h6>
+                <a href="/formularios" >Formul&aacute;rios</a>
+            </nav>
+        </li>
+        <li class="ajuda">
+            <a href="/ajuda" >Ajuda</a>
+            <nav class=" submenu subajuda">
+            	<a href="/contactos" ><span class="icon30 iefpicon-ask" aria-hidden="true"></span>e-BALC&Atilde;O</a>
+                <a href="/acessibilidade" ><span class="icon30 iefpicon-chair" aria-hidden="true"></span>Acessibilidade</a>
+                <a href="/mapa-do-site" ><span class="icon30 iefpicon-tiras" aria-hidden="true"></span>Mapa do site</a>
+                <a href="/perguntas-frequentes" ><span class="icon30 iefpicon-livro" aria-hidden="true"></span>Perguntas Frequentes / Gloss&aacute;rio</a>
+                <a href="/links-uteis" ><span class="icon30 iefpicon-mundo" aria-hidden="true"></span>Links &uacute;teis</a>
+            </nav>
+        </li>
+        <!--<li class="contactos">
+            <a href="/contactos" style="text-transform: inherit !important;" >e-BALC&Atilde;O</a>
+        </li>-->   
+
+		    </ul>
+    <div class="mascara"></div>
+</section>
+<!--mobilemenu-->
+
+<!--DESKTOP MENU-->
+<section class="mainmenu">
+    <div class="container">
+        <ul class="nav nav-justified mainnav">
+            <li class="iefp">
+                <a href="/iefp" >O IEFP</a>
+                <nav class="container submenu subiefp">
+                	<div class="row-fluid">
+    					<div class="span4">
+                        	<h6>Quem somos</h6>
+                        	<a href="/instituicao" >Institui&ccedil;&atilde;o</a>
+                            <a href="/historia" >Hist&oacute;ria</a>
+                            <a href="/recursos-humanos" >Recursos Humanos</a>
+                            <h6>Planeamento e gest&atilde;o</h6>
+                            <a href="/instrumentos-gestao" >Instrumentos de gest&atilde;o</a>
+                            <a href="/informacoes" >Informa&ccedil;&otilde;es</a>
+                            <!--
+                            <h6>Acordos e protocolos</h6>
+                            <a href="/acordos-e-protocolos-emprego">Emprego</a>
+                            <a href="/acordos-e-protocolos-formacao">Forma&ccedil;&atilde;o</a>
+                            <a href="/acordos-e-protocolos-transversais">Transversais</a>
+                            <a href="/acordos-e-protocolos-internacionais">Internacionais</a>
+                            -->
+                        </div>
+                        <div class="span4">
+                            <h6>Estat&iacute;sticas</h6>
+                        	<a href="/estatisticas" >Estat&iacute;sticas</a>
+                           <h6>Rede de Servi&ccedil;os</h6>
+                            <a href="/redecentros" >Rede de Servi&ccedil;os</a>
+                        </div>
+                        <div class="span4">
+                            <h6>Comunica&ccedil;&atilde;o</h6>
+                            <a href="/noticias" >Destaques / Not&iacute;cias</a>
+                            <a target="_blank" href="/canal-externo-de-denuncias">Canal Externo de Den&uacute;ncias</a>
+                            <a href="/mediateca" >Mediateca</a>
+                            <a href="/publicacoes-iefp?tab=dirigir-formar" >Revista Dirigir&Formar</a>
+                            <a href="/media" >Media</a>
+                            <h6>Regulamento Geral Proteção de Dados</h6>
+                            <a href="/rgpd" >RGPD</a>
+                            <a href="/politica-de-privacidade-de-dados-pessoais">Política de Privacidade de Dados Pessoais</a>
+                        </div>
+                    </div>
+                </nav>
+            </li>
+            
+            <li class="emprego">
+            	<a href="/emprego" >EMPREGO</a>
+                <nav class="container submenu subemprego">
+                	<div class="row-fluid">
+    					<div class="span4">
+                        	<h6>Servi&ccedil;os ao Cidad&atilde;o</h6>
+                            <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaEmprego' target="_blank" >Ofertas de emprego</a>
+                        	<a href="/inscricao-para-emprego" >Inscri&ccedil;&atilde;o para emprego</a>
+                            <a href="/procurar-emprego" >Como procurar emprego</a>
+                            <a href="/apoios-emprego" >Apoios ao emprego</a>
+                            <a href="/trabalhar-no-estrangeiro" >Trabalhar no estrangeiro</a>
+                            <a href="/subsidio-desemprego" >Subs&iacute;dio de desemprego</a>
+                            <a href="/declaracoes" >Declara&ccedil;&otilde;es</a>
+                            <a href="/comissao-de-recursos" >Comiss&atilde;o de Recursos</a>
+                            <a href="/regresso-a-portugal" >Regresso a Portugal</a>
+                        </div>
+                        <div class="span4">
+                        	<h6>Servi&ccedil;os ao Empregador</h6>
+                        	<a href="/registar-ofertas-emprego" >Registar ofertas de emprego</a>
+                            <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=cv' target="_blank" >Procurar trabalhadores</a>
+                            <a href="/apoios-incentivos" >Apoios e incentivos</a>
+                            <a href="/candidatura-apoios" >Candidaturas a apoios</a>
+                            <a href="/recrutar-no-estrangeiro" >Recrutar no estrangeiro</a>
+							<a href="/obrigacoes-legais" >Obriga&ccedil;&otilde;es legais</a>
+							<h6>Servi&ccedil;os online</h6>
+							<a href="/servicos-online" >Cidad&atilde;o e Empregador</a>
+                        </div>
+                        <div class="span4">
+                        	<h6>Servi&ccedil;os transversais</h6>
+                        	<a href="/gabinetes-de-insercao-profissional" >Gabinetes de Inser&ccedil;&atilde;o Profissional</a>
+							<a href="/estruturas-de-servicos-apoio" >Estruturas e servi&ccedil;os de apoio</a>
+                            <a href="/empresas-trabalho-temporario" >Empresas de Trabalho Tempor&aacute;rio</a>
+                            <a href="/agencias-privadas-colocacao" >Ag&ecirc;ncias Privadas de Coloca&ccedil;&atilde;o</a> 
+                            <a href="/eures" >EURES - Rede europeia de emprego</a>
+                            <a href="/promocao-artesanato" >Promo&ccedil;&atilde;o do artesanato</a>
+                            <a href="/projetos-e-iniciativas" >Projetos e iniciativas</a>
+                            <a href="/documentacao" >Documenta&ccedil;&atilde;o</a>
+                        </div>
+                    </div>
+                </nav>
+            </li>
+            <li class="formacao">
+            	<a href="/formacao" >Forma&ccedil;&atilde;o</a>
+                <nav class="container submenu subformacao">
+                	<div class="row-fluid">
+    					<div class="span4">
+                        	<h6>Servi&ccedil;os ao cidad&atilde;o</h6>
+                        	<a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaFormacao' target="_blank" >Ofertas de forma&ccedil;&atilde;o</a>
+                            <a href="/certificacao-de-formadores" >Certifica&ccedil;&atilde;o de formadores</a>
+                            <a href="/microsoft-office-365-do-iefp" >Acesso gratuito ao Office 365</a>
+                            <h6>Centros Qualifica</h6>
+                            <a href="/rvcc" >RVCC</a>
+                            <h6>FORMA&Ccedil;&Atilde;O PROFISSIONAL</h6>
+                            <a href="/modalidades-de-formacao" >Modalidades de Forma&ccedil;&atilde;o</a>
+                            <a href="/formacao-para-pessoas-com-deficiencia-e-incapacidades" >Pessoas com defici&ecirc;ncia e incapacidade</a>
+                        </div>
+                        <div class="span4">
+                        	<h6>Entidades Formadoras</h6>
+                            <a href="/cursos-de-aprendizagem" >Aprendizagem</a>
+                            <a href="/cursos-de-especializacao-tecnologica-cet" >Especializa&ccedil;&atilde;o tecnol&oacute;gica (CET)</a>
+                            <a href="/medida-vida-ativa" >Vida ativa</a>
+                            <a href="/qualificacao-de-pessoas-com-deficiencia-e-incapacidade" >Qualifica&ccedil;&atilde;o de pessoas com defici&ecirc;ncia e incapacidade</a>
+                            <a href="/formacao-pedagogica-de-formadores" >Forma&ccedil;&atilde;o de formadores</a>
+                            <a href="/formador-digital">Formador + Digital</a>
+                            <a href="/cheque-formacao-digital" >Cheque-Formação + Digital</a>
+                            <a href="/formacao-emprego-digital" >Formação Emprego + Digital</a>   
+                            <h6>Candidaturas</h6>
+                            <a href="/programa-trabalhos-competencias-verdes-green-skills-jobs">Trabalhos e Competências Verdes / Green Skills & Jobs</a>
+                            <a href="/programa-qualifica-industria">Programa Qualifica Indústria</a>
+                            <a href="/bolsa-efe-medidas-formacao" >Bolsa de Entidades Formadoras Externas</a>        
+							<a href="/rede-parceiros-aprendizagem" >Rede de Parceiros de Excelência para a Aprendizagem</a>
+                        </div>
+                        <div class="span4">
+                        	<h6>Gera&ccedil;&atilde;o Pro</h6>
+                        	<a href="/geracao-pro" >Gera&ccedil;&atilde;o Pro</a>
+                            <h6>Instrumentos de apoio</h6>
+                        	<a href="/referenciais-formacao" >Referenciais de forma&ccedil;&atilde;o</a>
+                            <a href="/areas-e-saidas-profissionais-prioritarias" >&Aacute;reas priorit&aacute;rias</a>
+                            <a href="/legislacao" >Legisla&ccedil;&atilde;o</a>
+                            <a href="/regulamento-da/o-formanda/o" >Regulamento da/o Formanda/o</a>
+                            <a href="/guia-apoios-sociais">Guia de Apoios Sociais</a>
+                            <a href="/guia-de-acompanhamento-efe" target="_blank">Guia de acompanhamento EFE</a>
+                            <!--<a href="/documentos-normativos">Documentos normativos</a>-->
+                            <h6>Campeonatos</h6>
+                        	<a target="_blank" href="https://worldskillsportugal.iefp.pt/" class="line2" >WorldSkills Portugal</a>
+                        </div>
+                    </div>
+                </nav>
+            </li>
+            <li class="apoios">
+            	<a href="/apoios" >Apoios</a>
+                <nav class="container submenu subapoios">
+                	<div class="row-fluid">
+    					<div class="span4">
+                        	<h6>Medidas de apoio</h6>
+                        	<a href="/apoios-a-contratacao" >Apoios &agrave; contrata&ccedil;&atilde;o</a>
+							<a href="/apoio-ao-regresso-de-emigrantes" >Apoio ao regresso de emigrantes</a>
+							<a href="/cheque-formacao" >Cheque-Forma&ccedil;&atilde;o</a>     
+							<a href="/formador-digital">Formador + Digital</a> 
+							<a href="/cheque-formacao-digital" >Cheque-Formação + Digital</a>   
+							<a href="/formacao-emprego-digital" >Formação Emprego + Digital</a> 
+							<a href="/ativar.pt" >ATIVAR.PT</a> 
+							<a href="/covid19" >COVID 19 - medidas</a>                
+							<a href="/empreendedorismo" >Empreendedorismo</a>
+							<a href="/emprego-insercao" >Emprego-Inser&ccedil;&atilde;o</a>
+							<a href="/emprego-jovem-ativo" >Emprego Jovem Ativo</a>
+							<a href="/estagios" >Est&aacute;gios</a>
+							<a href="/incentivo-a-aceitacao-de-ofertas" >Incentivo &agrave; aceita&ccedil;&atilde;o de ofertas</a>
+							<a href="/apoio-mobilidade-geografica" >Mobilidade geogr&aacute;fica</a>
+							<a href="/promocao-das-artes-e-oficios" >Promo&ccedil;&atilde;o das artes e of&iacute;cios</a>                            
+							<a href="/reabilitacao-profissional" >Reabilita&ccedil;&atilde;o profissional</a>
+							<a href="/regionais-e-setoriais" >Regionais e setoriais</a>
+                            <a href="/qualificacao-de-ativos-empregados" >Qualificação de Ativos Empregados</a>
+                            <a href="/medidas-revogadas-em-execucao" >Medidas revogadas</a>
+                            <a href="/lay-off">Situação de crise empresarial (Lay-off)</a>
+                        </div>
+                        <div class="span4">
+                            <h6>Candidaturas</h6>
+                        	<a href="/medidas-de-emprego" >Medidas de emprego</a>
+                       <!-- <a href="/medidas-de-formacao">Medidas de forma&ccedil;&atilde;o</a> -->
+                            <a href="/medidas-de-reabilitacao-PT2020-" >Reabilita&ccedil;&atilde;o (PORTUGAL 2020 &ndash; POISE e POR LISBOA 2020</a>
+                            <a href="/credenciacao-de-entidades" >Credencia&ccedil;&atilde;o de entidades</a>
+                            <a href="/premios" >Pr&eacute;mios</a>
+                            <h6>PORTUGAL 2020</h6>      
+							<a href="/normas-informacao-publicidade" >Normas de informa&ccedil;&atilde;o e publicidade</a>
+							<a href="/projetos-cofinanciados-pela-uniao-europeia" >Projetos Cofinanciados pela Uni&atilde;o Europeia (UE)</a>
+							<h6>PLANO DE RECUPERAÇÃO E RESILIÊNCIA</h6>   
+							<a href="/prr-investimentos">Plano de Recuperação e Resiliência (PRR)</a>
+                        </div>
+                        <div class="span4">
+                        	<h6>Formul&aacute;rios</h6>
+                            <a href="/formularios" >Formul&aacute;rios</a>
+                        </div>
+                    </div>
+                </nav>
+            </li>	
+            <li class="ajuda">
+            	<a href="/ajuda" >Ajuda</a>
+                <nav class="container submenu subajuda">
+                    <div class="row-fluid">
+                        <div class="span4">
+                            <a href="/contactos" ><span class="icon30 iefpicon-ask" aria-hidden="true"></span>e-BALC&Atilde;O</a>
+                        	<a href="/acessibilidade" ><span class="icon30 iefpicon-chair" aria-hidden="true"></span>Acessibilidade</a>                            
+                        </div>
+                        <div class="span4">
+                            <a href="/mapa-do-site" ><span class="icon30 iefpicon-tiras" aria-hidden="true"></span>Mapa do site</a>
+                            <a href="/perguntas-frequentes" ><span class="icon30 iefpicon-livro" aria-hidden="true"></span>Perguntas Frequentes / Gloss&aacute;rio</a>
+                        </div>
+                        <div class="span4">
+                            <a href="/links-uteis" ><span class="icon30 iefpicon-mundo" aria-hidden="true"></span>Links &uacute;teis</a>
+                        </div>
+                    </div>
+                </nav>
+            </li>
+            <!--<li class="contactos">
+            	<a href="/contactos" style="text-transform: inherit !important;" >e-BALC&Atilde;O</a>
+            </li>-->
+
+
+
+			        </ul>
+    </div>
+</section><!--Desktop Menu-->						<nav class="stripe" id="breadcrumb">
+				<div class="container">
+					
+	
+	                                                                                <ul class="breadcrumbs breadcrumbs-horizontal lfr-component">
+	<li class="first"><span><a href="https://www.iefp.pt">IEFP, I.P.</a></span></li><li class="last"><span><a href="https://www.iefp.pt/home" >Home</a></span></li> </ul> 
+				</div>
+			</nav>
+		</header>
+		<div class="avisos escondida" id="cookiesNotification">
+	        <div class="container" >
+	            <h2>Este website funciona com a utilização de cookies.</h2>
+	            <a class="vermais" href="/acerca-iefp" title="Saber mais sobre os cookies utilizados">Para saber mais clique aqui</a>
+	            <a class="ok" onclick="disableNotification();" href="javascript:void(0);" title="Aceitar os cookies e não ter que responder novamente">OK, não mostrar novamente</a>
+	        </div>
+	    </div>
+		
+					                                                                                                             <div class="portlet-boundary portlet-boundary_103_  portlet-static portlet-static-end portlet-borderless  " id="p_p_id_103_" >
+		<span id="p_103"></span>
+
+		<div class="portlet-body">
+            </div>
+	</div>
+    
+<div class="conteudo hp">
+	<section class="hpslider">
+    	<h3 class="hidden-desktop">Notícias</h3>
+                                               <div class="portlet-boundary portlet-boundary_NewsHighlightsHP_WAR_Newsportlet_  portlet-static portlet-static-end portlet-borderless news-portlet " id="p_p_id_NewsHighlightsHP_WAR_Newsportlet_" >
+		<span id="p_NewsHighlightsHP_WAR_Newsportlet"></span>
+
+		<div class="portlet-body">
+                                                       <div class="portlet-borderless-container" style="">
+					   <div class="portlet-body">
+                                                                                                     <script type="text/javascript" src="/News-portlet/js/newshp.js"></script>
+
+<script type="text/javascript">
+var currentItem = null;
+var news = [{"imgThumbnail":"https://www.iefp.pt/documents/10181/4974380/Pessoas2030+site.jpg/d326b78c-44e0-470e-b158-bcd44fb56e38?t=1699458498557&imageThumbnail=2","date":"08 Novembro 2023","newsId":"12297783","img":"https://www.iefp.pt/documents/10181/4974380/Pessoas2030+site.jpg/d326b78c-44e0-470e-b158-bcd44fb56e38?t=1699458498557","legendaImagem":"","groupId":"10181","modifiedDate":"08-Nov-2023","description":"&lt;p&gt;\n\tDecorreu no Porto o lançamento do Programa PESSOAS 2030, &#034;Trajetórias passadas, rumos futuros - O lugar das pessoas na era digital&#034;.&lt;/p&gt;\n&lt;p&gt;\n\tEsta foi uma iniciativa conjunta entre o PESSOAS 2030 e o IEFP, a propósito do Ano Europeu das Competências.&lt;/p&gt;\n&lt;p&gt;\n\tDomingos Lopes, Presidente do Conselho Diretivo do IEFP e Coordenador Nacional do Ano Europeu das Competências, focou a sua intervenção no tema &#034;A importância do Ano Europeu das Competências na resposta aos desafios presentes&#034;.&lt;/p&gt;\n&lt;p&gt;\n\tCom objetivo de promover o debate de ideias, a cerimónia contou com a presença de diversas personalidades da área das competências, numa mesa-redonda que acolheu as opiniões e experiências dos intervenientes. Contou ainda com apresentações sobre o Ano Europeu das Competências e os seus objetivos, bem como sobre os apoios do Programa, tanto na área da qualificação dos adultos como em áreas de investimento do PESSOAS 2030.&lt;/p&gt;\n&lt;p&gt;\n\tPretendendo ainda contribuir para a formação em contexto de trabalho, foi servido um brunch preparado por formandos apoiados pelo programa, bem como momentos musicais interpretados por formandos apoiados pelo Fundo Social Europeu Mais e Estado Português, através do investimento do PESSOAS 2030 na área da qualificação de jovens.&lt;/p&gt;\n","abstract":"IEFP marca presença no evento \"Trajetórias passadas, rumos futuros - o lugar das pessoas na era digital\".","title":"Lançamento do Programa Pessoas 2030","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/12295629/seguran%C3%A7a+no+trabalho.jpg/73a8359f-be57-4c18-8b55-47f0223ea9f2?t=1699391753497&imageThumbnail=2","date":"07 Novembro 2023","newsId":"12295559","img":"https://www.iefp.pt/documents/10181/12295629/seguran%C3%A7a+no+trabalho.jpg/73a8359f-be57-4c18-8b55-47f0223ea9f2?t=1699391753497","legendaImagem":"","groupId":"10181","modifiedDate":"07-Nov-2023","description":"&lt;p&gt;\n\tEsta é uma iniciativa conjunta entre o IEFP, através do Centro de Emprego e Formação Profissional de Aveiro e a &lt;a href=&#034;https://www.facebook.com/act.gov.pt&#034; target=&#034;_blank&#034;&gt;Autoridade para as Condições do Trabalho&lt;/a&gt; (ACT) e é dedicada ao esclarecimento de dúvidas sobre o programa de capacitação sobre o tema.&lt;/p&gt;\n&lt;p&gt;\n\tA sessão é online, através da plataforma TEAMS.&lt;/p&gt;\n&lt;p&gt;\n\tPoderão inscrever-se vários elementos de cada organização, sendo contudo necessário o preenchimento individual do formulário de inscrição, disponível &lt;a href=&#034;https://forms.office.com/pages/responsepage.aspx?id=4MU-8pZuUkq_BNuCl2n2XwLp7MSnE4pOh20eceHxrzdUOVZFT1FFUkhPQ0hRSzIyR0lGWVo4RjJZNi4u&#034; target=&#034;_blank&#034;&gt;AQUI&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;\n\tApós a submissão do formulário de inscrição receberá nos dias seguintes, no email identificado, o link e as instruções de participação na sessão.&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"As inscrições estão abertas à participação dos empregadores, que se podem inscrever para 9 ou 10 de novembro. A sessão de apresentação decorre na sequência do programa de certificação e capacitação para o exercício das atividades de segurança no trabalho, no âmbito das funções de representante do empregador, empregador ou trabalhador designado.","title":"IEFP e a ACT promovem sessão de esclarecimentos sobre segurança no trabalho","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1133478/Logoiefp_2.jpg/8e86c831-f1a7-4c80-8293-ac697257fd9f?t=1614005220820&imageThumbnail=2","date":"06 Novembro 2023","newsId":"12294303","img":"https://www.iefp.pt/documents/10181/1133478/Logoiefp_2.jpg/8e86c831-f1a7-4c80-8293-ac697257fd9f?t=1614005220820","legendaImagem":"","groupId":"10181","modifiedDate":"06-Nov-2023","description":"&lt;p&gt;\n\tForam hoje publicados, no Diário da República, quatro avisos de abertura de procedimentos concursais de recrutamento e seleção para provimento de cargos de direção intermédia de 1.º e&amp;nbsp; 2.º grau da Delegação Regional do Centro do IEFP, I.P.:&lt;/p&gt;\n&lt;p&gt;\n\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso/21262-2023-223826089&#034; target=&#034;_blank&#034;&gt;Aviso n.º 21262/2023&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\tTrabalho, Solidariedade e Segurança Social - Instituto do Emprego e da Formação Profissional, I. P.&lt;/p&gt;\n&lt;p&gt;\n\tAbertura de procedimento concursal para o cargo de coordenador do Núcleo de Gestão do Mercado de Emprego do Centro de Emprego e Formação Profissional de Coimbra&lt;/p&gt;\n&lt;p&gt;\n\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso/21264-2023-223826091&#034; target=&#034;_blank&#034;&gt;Aviso n.º 21264/2023&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\tTrabalho, Solidariedade e Segurança Social - Instituto do Emprego e da Formação Profissional, I. P.&lt;/p&gt;\n&lt;p&gt;\n\tAbertura de procedimento concursal de recrutamento e seleção para provimento do cargo de direção intermédia de 1.º grau de diretor-adjunto do Centro de Emprego e Formação Profissional de Coimbra&lt;/p&gt;\n&lt;p&gt;\n\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso/21265-2023-223826092&#034; target=&#034;_blank&#034;&gt;Aviso n.º 21265/2023&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\tTrabalho, Solidariedade e Segurança Social - Instituto do Emprego e da Formação Profissional, I. P.&lt;/p&gt;\n&lt;p&gt;\n\tAbertura de procedimento concursal para o cargo de diretor-adjunto do Centro de Emprego e Formação Profissional de Castelo Branco&lt;/p&gt;\n&lt;p&gt;\n\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso/21266-2023-223826093&#034; target=&#034;_blank&#034;&gt;Aviso n.º 21266/2023&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\tTrabalho, Solidariedade e Segurança Social - Instituto do Emprego e da Formação Profissional, I. P.&lt;/p&gt;\n&lt;p&gt;\n\tAbertura de procedimento concursal para o cargo de diretor-adjunto do Centro de Emprego e Formação Profissional de Leiria&lt;/p&gt;\n&lt;br /&gt;\n&lt;p&gt;\n\tMais se informa que as candidaturas eletrónicas, efetuadas em &lt;a href=&#034;https://www.iefp.pt/recursos-humanos?tab=recrutamento-e-selecao&#034; target=&#034;_blank&#034;&gt;http://www.iefp.pt/recursos-humanos&lt;/a&gt;, só estarão disponíveis após a data de divulgação dos anúncios na Bolsa de Emprego Público (BEP) e durante um período de 10 dias úteis.&lt;/p&gt;\n","abstract":"Abertura de 4 procedimentos concursais para cargos de direção intermédia de 1.º e  2.º grau para a Delegação Regional do Centro.","title":"Abertura de procedimentos concursais","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/12289666/Imagem_655x300_EP19+site.jpg/2f7315a2-2df8-43cd-affb-c65229867d84?t=1698924657057&imageThumbnail=2","date":"02 Novembro 2023","newsId":"12289563","img":"https://www.iefp.pt/documents/10181/12289666/Imagem_655x300_EP19+site.jpg/2f7315a2-2df8-43cd-affb-c65229867d84?t=1698924657057","legendaImagem":"","groupId":"10181","modifiedDate":"02-Nov-2023","description":"&lt;p&gt;\n\tA quarta temporada da série Mudar para Melhor inaugura com um regresso à parceria com o Instituto do Emprego e Formação Profissional.&lt;/p&gt;\n&lt;p&gt;\n\tNeste 19º episódio vamos conhecer na primeira pessoa como os programas PRO_MOV e UPskill estão a mudar as vidas profissionais de quem precisou de encontrar outra oportunidade de carreira através da requalificação com novas competências, neste caso, nas áreas da saúde e na programação digital, que fazem parte das chamadas profissões de futuro. O Programa PRO_MOV surge no seguimento da Iniciativa Europeia Reskilling 4 Employment (R4E) e que pretende requalificar pessoas em situação de desemprego ou subemprego ou detentoras de uma experiência ou formação desajustada face à evolução e transformação do mercado de trabalho. Diz-se que o universo se encarrega de colocar tudo nos seus devidos lugares.&lt;/p&gt;\n&lt;p&gt;\n\tÉ este o sentimento de Eurídice Fumo, uma apaixonada pelo mundo da ciência e investigação na área da saúde que acabou por optar pela área da contabilidade e da gestão aquando da decisão de ir para um curso superior. Quis o destino, que numa situação de desemprego surgisse a possibilidade de abraçar a formação como Analista Químico na componente de laboratório. Fátima Lopes vai testemunhar esta mudança visitando o Centro de Formação, em Santarém, onde, Eurídice Fumo, redescobriu aos 46 anos o mundo fascinante da ciência.&lt;/p&gt;\n&lt;p&gt;\n\tMas as mudanças para melhor não se ficam pela grande Lisboa, ou melhor, há quem deixe a capital para seguir um novo caminho profissional a norte. É, em Amarante, que Fátima Lopes conhece Raquel Lopes, jovem de 28 anos que desencantada com o curso de engenharia mecânica, aproveitou a pandemia para repensar o futuro e para arriscar numa experiência no estrangeiro. Quando regressou a Portugal, e depois de um primeiro contato num bootcamp com a área da programação digital decidiu apostar nesta área, e hoje, está muito feliz! Um exemplo para todas as mulheres que ainda possam pensar que a programação é uma escolha profissional mais talhada para os homens. Raquel Lopes, prova que aqui as competências não têm género e que há muito futuro para conquistar. Amarante, acolhe as aulas do curso JAVA.NET, que contaram também com a presença de Fátima Lopes. Uma formação conduzida por Paulo Proença, professor do Instituto de Engenharia do Porto, um especialista em programação que explica a relevância do programa UPskill num mundo cada vez mais digital.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;div class=&#034;container&#034;&gt;\n\t&lt;iframe allow=&#034;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#034; allowfullscreen=&#034;&#034; frameborder=&#034;0&#034; height=&#034;255&#034; src=&#034;https://www.youtube.com/embed/MDYXjni87ac?si=VkYN5xY2AlDID_54&#034; title=&#034;YouTube video player&#034; width=&#034;450&#034;&gt;&lt;/iframe&gt;&lt;/div&gt;\n","abstract":"A quarta temporada da série Mudar para Melhor do Empower Brands Channel inaugura com um regresso à parceria com o Instituto do Emprego e Formação Profissional.","title":"Estreou a nova temporada Mudar para Melhor com Fátima Lopes","user":"Altran Luís Mendes"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1043457/RECRUTAMENTO_CEIS.jpg/036c9f3e-adfa-4d53-9294-872db418ede2?t=1698762515890&imageThumbnail=2","date":"31 Outubro 2023","newsId":"12286975","img":"https://www.iefp.pt/documents/10181/1043457/RECRUTAMENTO_CEIS.jpg/036c9f3e-adfa-4d53-9294-872db418ede2?t=1698762515890","legendaImagem":"","groupId":"10181","modifiedDate":"02-Nov-2023","description":"&lt;p&gt;\n\tO CEIS - Centro Protocolar de Formação Profissional para a Economia e Inovação Social -, que resulta de uma parceria entre o IEFP, a Cooperativa António Sérgio para a Economia Social (CASES), a Confederação Portuguesa de Economia Social (CPES), o Centro de Estudos Ibéricos (CEI) e o Instituto da Segurança Social (ISS) tem vagas a preencher para:&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tum(a) assistente técnico(a) para a área administrativa&lt;/li&gt;\n\t&lt;li&gt;\n\t\tum(a) técnico/a superior de comunicação e multimédia&lt;/li&gt;\n\t&lt;li&gt;\n\t\tum(a) técnico(a) superior de informática&lt;/li&gt;\n\t&lt;li&gt;\n\t\tum(a) técnico(a) superior de empreendedorismo, projetos e inovação social&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\tSe considera ter o perfil adequado para estas oportunidades envie a sua candidatura para &lt;a href=&#034;http://recrutamento@ceis.pt&#034; target=&#034;_blank&#034;&gt;recrutamento@ceis.pt&lt;/a&gt;, até ao próximo dia 6 de novembro. Junto com a candidatura é necessário indicar o consentimento para tratamento de dados pessoais e anexar o Curriculum Vitae detalhado, certificado de habilitações literárias e cartão de identificação. As candidaturas incompletas ou entregues fora de prazo não serão consideradas.&lt;/p&gt;\n&lt;p&gt;\n\tInformação detalhada sobre as ofertas em &lt;a href=&#034;http://www.ceis.pt/&#034;&gt;www.ceis.pt&lt;/a&gt;&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"O CEIS está a recrutar para o seu quadro de pessoal vários profissionais para a sede, na Guarda.","title":"O CEIS recruta profissionais para a sede","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1133478/Logo+IEFP+1/3fab3831-cca4-4165-9719-7db16af76267?t=1404393868173&imageThumbnail=2","date":"31 Outubro 2023","newsId":"12284722","img":"https://www.iefp.pt/documents/10181/1133478/Logo+IEFP+1/3fab3831-cca4-4165-9719-7db16af76267?t=1404393868173","legendaImagem":"","groupId":"10181","modifiedDate":"31-Oct-2023","description":"&lt;p&gt;\n\tO IEFP através do&amp;nbsp; Departamento de Recursos Humanos está a coordenar a abertura de 5 procedimentos concursais comuns com vista ao recrutamento de Assistentes Técnicos com vínculo à Administração Pública.&lt;/p&gt;\n&lt;p&gt;\n\tConsulte os avisos através dos links abaixo:&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tAbertura de procedimento concursal comum para o preenchimento de 10 postos de trabalho na carreira e categoria de assistente técnico.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\t&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&#034;https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiariodarepublica.pt%2Fdr%2Fdetalhe%2Faviso-extrato%2F20899-2023-223473275&amp;amp;data=05%7C01%7Cgcre%40iefp.pt%7Ca0f20440374f4405726008dbd9302a2a%7Cf23ec5e06e964a52bf04db829769f65f%7C0%7C0%7C638342573107931176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=Yd6bVU5%2BF6DfzrNhTgEItdMO7Zi9xr1tSLmUK5tk7Oc%3D&amp;amp;reserved=0&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 20899/2023&lt;/a&gt;&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tAbertura de procedimento concursal comum para o preenchimento de três postos de trabalho na carreira e categoria de assistente técnico.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\t&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&#034;https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiariodarepublica.pt%2Fdr%2Fdetalhe%2Faviso-extrato%2F20900-2023-223473276&amp;amp;data=05%7C01%7Cgcre%40iefp.pt%7Ca0f20440374f4405726008dbd9302a2a%7Cf23ec5e06e964a52bf04db829769f65f%7C0%7C0%7C638342573107931176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=HKNrpygSjuOLjAtUyBMvQRt%2BmSBmfhQsDeJU51Oc5IA%3D&amp;amp;reserved=0&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 20900/2023&lt;/a&gt;&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tAbertura de procedimento concursal comum para o preenchimento de seis postos de trabalho na carreira e categoria de assistente técnico.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\t&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso-extrato/20901-2023-223473277&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 20901/2023&lt;/a&gt;&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tAbertura de procedimento concursal comum para o preenchimento de nove postos de trabalho na carreira e categoria de assistente técnico.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\t&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&#034;https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiariodarepublica.pt%2Fdr%2Fdetalhe%2Faviso-extrato%2F20902-2023-223473278&amp;amp;data=05%7C01%7Cgcre%40iefp.pt%7Ca0f20440374f4405726008dbd9302a2a%7Cf23ec5e06e964a52bf04db829769f65f%7C0%7C0%7C638342573107931176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=GMZwgtUSl4TCVe5lN2F2Vz7VNlQ5y8AlfDz%2Fp8Ht%2FMg%3D&amp;amp;reserved=0&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 20902/2023&lt;/a&gt;&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tAbertura de procedimento concursal comum para o preenchimento de oito postos de trabalho na carreira e categoria de assistente técnico.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\t&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href=&#034;https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiariodarepublica.pt%2Fdr%2Fdetalhe%2Faviso-extrato%2F20903-2023-223473279&amp;amp;data=05%7C01%7Cgcre%40iefp.pt%7Ca0f20440374f4405726008dbd9302a2a%7Cf23ec5e06e964a52bf04db829769f65f%7C0%7C0%7C638342573107931176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=uQtFi4VWTFDIjnsyxIzBd%2FnXyhIcy3DBPK%2Fj0Vg0%2F78%3D&amp;amp;reserved=0&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 20903/2023&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tMais se informa que as candidaturas eletrónicas, efetuadas no Portal do IEFP em &#034;Recrutamento e seleção/Procedimento Concursal Comum&#034;, só estarão disponíveis após a data de divulgação do anúncio na Bolsa de Emprego Público (BEP) e durante um período de 10 dias úteis.&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"Abertura de 5 procedimentos concursais comuns com vista ao recrutamento de Assistentes Técnicos com vínculo à Administração Pública.","title":"Abertura de procedimentos concursais","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/445846/2023.11.22-655x300%401x+eures.png/7bf1c38e-e9ae-4523-a4d7-28b051b2a981?t=1698677559227&imageThumbnail=2","date":"30 Outubro 2023","newsId":"12284111","img":"https://www.iefp.pt/documents/10181/445846/2023.11.22-655x300%401x+eures.png/7bf1c38e-e9ae-4523-a4d7-28b051b2a981?t=1698677559227","legendaImagem":"","groupId":"10181","modifiedDate":"30-Oct-2023","description":"&lt;p&gt;\n\tEstão abertas as inscrições para a 4ª edição do Work in Portugal 2023, um evento de recrutamento e informação exclusivamente &lt;em&gt;online,&lt;/em&gt; organizado pelo IEFP no âmbito das atividades da EURES: Rede Europeia de Emprego, na plataforma &lt;a href=&#034;http://www.europeanjobdays.eu/&#034; target=&#034;_blank&#034;&gt;europeanjobdays.eu&lt;/a&gt;, com o apoio da ELA &#x2013; Autoridade Europeia do Trabalho e a colaboração de várias entidades parceiras.&lt;/p&gt;\n&lt;p&gt;\n\tEsta iniciativa propõe-se contribuir para a resposta às necessidades de recrutamento das empresas portuguesas:&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Promovendo Portugal enquanto destino para trabalhar e viver&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Informando e aconselhando candidatos interessados em Portugal&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Fomentando o regresso a Portugal de cidadãos portugueses (e luso-descendentes) na diáspora&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tO evento será promovido, através da rede &lt;a href=&#034;https://eures.ec.europa.eu/&#034; target=&#034;_blank&#034;&gt;EURES&lt;/a&gt;, junto de profissionais de toda a União Europeia / Espaço Económico Europeu, com qualificações, com e sem experiência profissional &#x2013; estando também aberto à participação de candidatos (nacionais e estrangeiros) residentes em Portugal ou noutros países e continentes.&lt;/p&gt;\n&lt;p&gt;\n\tSe a sua empresa procura colaboradores com competências técnicas e/ou linguísticas específicas, que tem dificuldade de satisfazer a nível nacional, está aberta a recrutar além-fronteiras e está preparada para acolher colaboradores não falantes (ou com poucos conhecimentos) de português, num primeiro momento, esta é uma excelente oportunidade para si!&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tNeste evento, pode, de forma gratuita:&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Promover as suas ofertas de emprego / estágio / investigação&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Conversar com potenciais candidatos em videochat individual, no dia&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Apresentar a sua empresa e necessidades de recrutamento em direto no Programa do evento&lt;/p&gt;\n&lt;p&gt;\n\t\u2022 Agendar e conduzir entrevistas de recrutamento online entre 22 e 25 de novembro&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tSe é candidato a emprego, pode também inscrever-se. A língua oficial do evento é o inglês.&lt;/p&gt;\n&lt;p&gt;\n\tVisite &lt;a href=&#034;http://www.europeanjobdays.eu/workinportugal2023&#034; target=&#034;_blank&#034;&gt;www.europeanjobdays.eu/workinportugal2023&lt;/a&gt; para mais informações e i&lt;a href=&#034;https://europeanjobdays.eu/en/who-are-you?event=50019&#034; target=&#034;_blank&#034;&gt;nscreva-se&lt;/a&gt; para participar, a data limite para inscrição de empresas é &lt;strong&gt;8 de novembro&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;\n\tSe já tem uma conta nesta plataforma, faça &lt;a href=&#034;https://europeanjobdays.eu/en/user/login&#034; target=&#034;_blank&#034;&gt;AQUI&lt;/a&gt; o login e selecione o evento &#034;Work in Portugal&#034;.&lt;/p&gt;\n&lt;p&gt;\n\tColoque-nos as suas questões para o email workinportugal@iefp.pt.&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"Inscrições abertas para a 4ª edição do Work in Portugal 2023, um evento de recrutamento e informação exclusivamente online, organizado pelo IEFP no âmbito das atividades da EURES: Rede Europeia de Emprego.","title":"Abertas as inscrições para a 4ª edição do Work in Portugal 2023","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/12110016/capa+noticia+50+anos+25+abril_coimbra.jpg/7a1ed978-9dee-4a70-80a5-aeff9a0f6abe?t=1698434563607&imageThumbnail=2","date":"27 Outubro 2023","newsId":"12276859","img":"https://www.iefp.pt/documents/10181/12110016/capa+noticia+50+anos+25+abril_coimbra.jpg/7a1ed978-9dee-4a70-80a5-aeff9a0f6abe?t=1698434563607","legendaImagem":"","groupId":"10181","modifiedDate":"08-Nov-2023","description":"&lt;p&gt;\n\tA sessão, que teve lugar no Auditório do Serviço de Formação Profissional de Coimbra, contou com a presença do Secretário de Estado do Trabalho, Miguel Fontes, e do Presidente do Conselho Diretivo do IEFP, Domingos Lopes, entre outras individualidades.&lt;/p&gt;\n&lt;p&gt;\n\tO evento iniciou com as palavras do Presidente do Conselho Diretivo do IEFP, que lembrou aos presentes os valores da democracia e da liberdade e de como «A celebração desses valores nunca nos deve deixar indiferentes&#034;. Partilhou ainda como era a vida em Portugal antes do 25 de abril de 1974, e a forma como este momento histórico mudou a vida de todos.&lt;/p&gt;\n&lt;p&gt;\n\tDomingos Lopes referiu, ainda, a missão do IEFP e de como, através da implementação das políticas de emprego e formação profissional, visa contribuir para uma sociedade mais justa e igualitária.&lt;/p&gt;\n&lt;p&gt;\n\tA sessão contou também com uma mesa-redonda, onde personalidades da sociedade civil testemunharam as suas histórias de vida, lembrando o período pré 25 de abril de 74, e as conquistas após este período histórico, num debate moderado pelo Delegado Regional do Centro do IEFP, Alberto Costa, centrado na análise do passado, e focado nos desafios do futuro.&lt;/p&gt;\n&lt;p&gt;\n\t&#034;Os jovens e o Emprego&#034; foi o tema do painel seguinte, em que dois jovens conduziram uma entrevista ao Secretário de Estado do Trabalho sobre os seus sonhos, os obstáculos que têm encontrado e de como as políticas de emprego e formação podem contribuir para reter jovens em terras lusas.&lt;/p&gt;\n&lt;p&gt;\n\tA cerimónia contou ainda com vários momentos musicais protagonizados pela Orquestra da Associação dos Antigos Tunos da Universidade de Coimbra, sob Direção de Augusto Mesquita e voz de Fábio Borges.&lt;/p&gt;\n&lt;p&gt;\n\tO Secretário de Estado do Trabalho encerrou a sessão lembrando que &#034;todos os dias são bons para celebrar abril, porque isso representa uma oportunidade para, com orgulho, celebrarmos a democracia e as suas realizações&#034;. Foi necessário &#034;derrubar barreiras e é o que o IEFP tem feito ao nível do emprego e formação profissional&#034;, sublinhou Miguel Fontes.&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;div class=&#034;container&#034;&gt;\n\t&lt;iframe allow=&#034;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#034; allowfullscreen=&#034;&#034; frameborder=&#034;0&#034; height=&#034;255&#034; src=&#034;https://www.youtube.com/embed/LBte0iPCvjs?si=ie0pQKHKiOWNRbDY&#034; title=&#034;YouTube video player&#034; width=&#034;450&#034;&gt;&lt;/iframe&gt;&lt;/div&gt;\n","abstract":"Decorreu, a 26 de outubro, em Coimbra, enquadrada nas comemorações dos 50 anos do 25 de abril, o seminário \u201c50 Anos de Políticas de Emprego e Formação Profissional\u201d.","title":"Seminário \u201c50 Anos de Políticas de Emprego e Formação Profissional\u201d","user":"Altran Luís Mendes"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1689355/Foto+Paulo+Watanabe.jpg/05996f01-62b4-456a-8008-c3187410faa9?t=1698068688740&imageThumbnail=2","date":"23 Outubro 2023","newsId":"12269092","img":"https://www.iefp.pt/documents/10181/1689355/Foto+Paulo+Watanabe.jpg/05996f01-62b4-456a-8008-c3187410faa9?t=1698068688740","legendaImagem":"","groupId":"10181","modifiedDate":"23-Oct-2023","description":"Paulo disse-nos, que teve conhecimento da medida Emprego Interior MAIS por colegas de trabalho e pelas redes sociais e é grato por isso.\n&lt;p&gt;\n\tAo saber do apoio à mobilidade geográfica para o interior de Portugal concedido pelo IEFP decidiu candidatar-se ao programa, &#034;principalmente para obter suporte financeiro na mudança, que incluía a transição de um país (Japão) para o interior de Portugal&#034;.&lt;/p&gt;\nPaulo contou-nos, que a decisão de se candidatar à medida Emprego Interior MAIS &#034;surgiu como parte de uma busca por uma mudança e um desafio pessoal&#034; e que &#034;o apoio financeiro do IEFP foi fundamental para aliviar as despesas significativas associadas à deslocação&#034;.\n&lt;p&gt;\n\tHoje, vive e trabalha em Évora e é ainda mais feliz. A CEiiA, empresa que o recebeu é especializada em aeronáutica, mobilidade urbana, automóvel, oceano e espaço, áreas que o apaixonam e fazem sentir realizado. Referiu-nos que &#034;a adaptação leva tempo, mas a qualidade de vida e a sensação de comunidade podem ser recompensadoras&#034;, lembrando &#034;que um ambiente mais tranquilo e seguro oferece benefícios significativos&#034;.&lt;/p&gt;\nPerguntámos-lhe que oportunidades se abriram com esta mudança e respondeu &#034;até ao momento, estou a aproveitar a fase exploratória da mudança. Tenho tido a oportunidade de descobrir novas perspetivas profissionais e culturais, bem como estabelecer conexões valiosas&#034;.\n&lt;p&gt;\n\tSe tivesse de deixar uma mensagem para que outros o sigam, Paulo diria: &#034;As cidades no interior têm muito a oferecer em termos de oportunidades profissionais e culturais. Embora a adaptação leve tempo, é fundamental focar nos benefícios que o local oferece em termos de qualidade de vida, segurança e bem-estar. Acredito que a mudança para o interior pode ser uma jornada gratificante para aqueles dispostos a explorá-la.&lt;/p&gt;\n&lt;p&gt;\n\tSaiba mais e candidate-se em &lt;a href=&#034;https://iefponline.iefp.pt/IEFP/index2.jsp&#034; target=&#034;_blank&#034;&gt;iefponline.iefp.pt&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"Paulo Watanabe tem 38 anos e é engenheiro de sistemas de aviação.\nVivia e trabalhava no Japão, na grande cidade de Kobe e até \u201cestava numa fase relativamente estável da vida\u201d quando teve conhecimento da medida Emprego Interior MAIS. Deixa o testemunho de como isso mudou a sua vida.","title":"Paulo, do Japão para o Interior de Portugal","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/12271524/RECRUTAMENTO_CAPA_NOTICIA.png/4700df49-e508-4010-8fa6-a279aee1c682?t=1698084317727&imageThumbnail=2","date":"23 Outubro 2023","newsId":"12269388","img":"https://www.iefp.pt/documents/10181/12271524/RECRUTAMENTO_CAPA_NOTICIA.png/4700df49-e508-4010-8fa6-a279aee1c682?t=1698084317727","legendaImagem":"","groupId":"10181","modifiedDate":"23-Oct-2023","description":"&lt;p&gt;\n\tConsulte todos os detalhes das ofertas:&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso-extrato/19757-2023-222824177&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 19757/2023&lt;/a&gt;&lt;/li&gt;\n\t&lt;li&gt;\n\t\t&lt;a href=&#034;https://diariodarepublica.pt/dr/detalhe/aviso-extrato/19758-2023-222824178&#034; target=&#034;_blank&#034;&gt;Aviso (extrato) n.º 19758/2023&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\tAs candidaturas eletrónicas devem ser efetuadas em &lt;a href=&#034;https://www.iefp.pt/recursos-humanos&#034; target=&#034;_blank&#034;&gt;http://www.iefp.pt/recursos-humanos,&lt;/a&gt; separador &#034;Recrutamento e seleção/Procedimento Concursal Comum&#034; e encontram-se a decorrer até 2 de novembro de 2023.&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"O IEFP está a recrutar cinco profissionais com vínculo à função pública, para os Serviços Centrais, para a Direção de Serviços de Pessoal.","title":"IEFP recruta técnicos superiores para Lisboa","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1043457/ACT_IEFP+SITE.jpg/8977ad46-264e-4178-8ce2-31c6ee586f15?t=1697815194713&imageThumbnail=2","date":"20 Outubro 2023","newsId":"12266994","img":"https://www.iefp.pt/documents/10181/1043457/ACT_IEFP+SITE.jpg/8977ad46-264e-4178-8ce2-31c6ee586f15?t=1697815194713","legendaImagem":"","groupId":"10181","modifiedDate":"20-Oct-2023","description":"&lt;p&gt;\n\tInscrições abertas para participar no dia 30 de outubro, no auditório do IEFP em Viseu, na sessão de esclarecimentos sobre a formação &#034;Exercício de atividades de segurança no trabalho pelo Representante do Empregador / Empregador / Trabalhador Designado&#034;.&lt;/p&gt;\n&lt;p&gt;\n\tEsta é uma iniciativa conjunta entre o IEFP e a Autoridade para as Condições no Trabalho e é dedicada ao esclarecimento de dúvidas sobre o programa de capacitação sobre o tema.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tPara se inscrever preencha o formulário &lt;a href=&#034;https://forms.office.com/e/ZqXWzC4DcJ&#034; target=&#034;_blank&#034;&gt;aqui&lt;/a&gt;&lt;/p&gt;\n","abstract":"Auditório do IEFP em Viseu recebe a sessão de esclarecimento sobre o programa de capacitação para o exercício de atividades de segurança no trabalho pelo Representante do Empregador / Empregador / Trabalhador Designado\u201d.","title":"Viseu recebe sessão de esclarecimentos sobre Formação \"Exercício de atividades de segurança no trabalho pelo Representante do Empregador / Empregador / Trabalhador Designado\u201d","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/4974380/adido+india.jpg/023e92bb-0b61-4aa6-a7c1-f31396df6b44?t=1697135869147&imageThumbnail=2","date":"12 Outubro 2023","newsId":"12255430","img":"https://www.iefp.pt/documents/10181/4974380/adido+india.jpg/023e92bb-0b61-4aa6-a7c1-f31396df6b44?t=1697135869147","legendaImagem":"","groupId":"10181","modifiedDate":"13-Oct-2023","description":"&lt;p&gt;\n\tChama-se Miguel Carloto, e é funcionário do IEFP, o adido que já está na Índia para promover a valorização das competências dos jovens e incentivá-los na procura de mais e melhores oportunidades de emprego.&lt;/p&gt;\n&lt;p&gt;\n\tDiretamente de solo indiano para Portugal, enviou-nos algumas palavras que testemunham o entusiasmo que sente pela missão em que acabou de embarcar:&lt;/p&gt;\n&lt;p&gt;\n\t&#034;Inicio as minhas funções na embaixada em Deli consciente da enorme responsabilidade que significa representar o Estado Português na Índia em assuntos relacionados com o emprego nas suas mais diversas variantes e problemáticas.&#034;&lt;/p&gt;\n&lt;p&gt;\n\tDiz-nos que foi &#034;muito bem acolhido por uma equipa muito rigorosa, dedicada e profissional que muito deveria orgulhar todos nós Portugueses, apesar de consciente da complexidade do contexto onde fui acolhido.&#034;&lt;/p&gt;\n&lt;p&gt;\n\tMiguel tem bem presente o desafio desta representação no &#034;país mais populoso do planeta com mais de 1.6 biliões de habitantes e que é a oitava maior economia mundial, e no caso específico da nossa representação diplomática em Deli a área de abrangência para além da Índia inclui, os vizinhos Nepal e Bangladesh, países com significativas comunidades em Portugal e cada vez mais essenciais à criação de novos empregos em Portugal.&#034;&lt;/p&gt;\n&lt;p&gt;\n\tMiguel é claro quando refere que o seu trabalho na Índia visa &#034;contribuir positivamente para uma crescente expansão económica e melhorando o potencial de crescimento de internacionalização da economia portuguesa sustentando as necessidades de trabalhadores, independentemente das suas habilitações, assim como na sustentabilidade da segurança social invertendo a pirâmide etária em Portugal.&lt;/p&gt;\n&lt;p&gt;\n\tO adido lembra que esta comunidade &#034;representa muitas vezes uma mão de obra invisível, mas já essencial em áreas como a agricultura e produção agroindustrial, hotelaria, restauração e serviços.&#034; É com satisfação que que nos diz:&amp;nbsp; &#034;são nestes desafios que me sinto confortável, os quais serão sempre guiados pelo código de conduta do IEFP e pelos superiores interesses do Estado Português que irei desempenhar da melhor forma possível as minhas funções enquanto adido, dando uma igual atenção quer aos empregadores portugueses que ao abrigo do protocolo outorgado entre ambos os Estados pretendam recorrer ao IEFP para obter respostas, quer aos cidadãos à procura de oportunidades de trabalho digno em Portugal.&#034;&lt;/p&gt;\n","abstract":"Portugal, através do IEFP, está a reforçar a equipa na Índia, onde acaba de chegar um adido para apoiar na criação de mais e melhores oportunidades de emprego e formação profissional.","title":"Adido português reforça equipa na Índia","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1043457/Banner+ETD_IEFP.PNG/689ff4dc-6b67-4f67-9b11-59dd9239209b?t=1697030702960&imageThumbnail=2","date":"11 Outubro 2023","newsId":"12252123","img":"https://www.iefp.pt/documents/10181/1043457/Banner+ETD_IEFP.PNG/689ff4dc-6b67-4f67-9b11-59dd9239209b?t=1697030702960","legendaImagem":"","groupId":"10181","modifiedDate":"11-Oct-2023","description":"&lt;p&gt;\n\tTodos os empregadores estão obrigados a organizar os serviços de segurança e saúde no trabalho, prevenindo os riscos profissionais e promovendo a segurança e a saúde dos trabalhadores.&lt;/p&gt;\n&lt;p&gt;\n\tNas empresas até nove trabalhadores e cuja atividade não é de risco elevado, as atividades de segurança no trabalho podem ser exercidas:&lt;/p&gt;\n&lt;ul&gt;\n\t&lt;li&gt;\n\t\tpelo próprio empregador&lt;/li&gt;\n\t&lt;li&gt;\n\t\tpor um ou mais trabalhadores, designados pelo empregador&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n\tO Curso de formação para empregador, trabalhador designado e representante do empregador permite a aquisição de competências essenciais para o exercício das atividades de segurança no trabalho pelo empregador ou trabalhador designado.&lt;/p&gt;\n&lt;p&gt;\n\t&lt;a href=&#034;https://portal.act.gov.pt/Pages/AcaodeSensibilizacaoETD.aspx&#034; target=&#034;_blank&#034;&gt;Consulte a agenda de ações de formação&lt;/a&gt;&lt;/p&gt;\n","abstract":"O Instituto de Emprego e Formação Profissional, com a colaboração da Autoridade para as Condições do Trabalho, disponibiliza a empregadores e trabalhadores a formação de que necessitam.","title":"IEFP e ACT promovem curso de formação na área da organização dos serviços de segurança no trabalho","user":"Catarina Costa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/11344649/Design+sem+nome+%2810%29.png/593fd658-3d6f-4d1f-a6ca-62a9318f52e5?t=1685619795993&imageThumbnail=2","date":"04 Outubro 2023","newsId":"12244636","img":"https://www.iefp.pt/documents/10181/11344649/Design+sem+nome+%2810%29.png/593fd658-3d6f-4d1f-a6ca-62a9318f52e5?t=1685619795993","legendaImagem":"","groupId":"10181","modifiedDate":"06-Oct-2023","description":"&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tAtendendo à reduzida disponibilidade dos artesãos e Unidades Produtivas Artesanais para a preparação de candidaturas ao PNA 2023, (com início em 1 de junho e termo em 30 de setembro de 2023) porque o mesmo ocorreu num período de intensa participação em certames de promoção do artesanato, o Instituto do Emprego e Formação Profissional decidiu o prolongamento das candidaturas.&lt;/p&gt;\n&lt;p&gt;\n\tAssim, o Conselho Diretivo do Instituto do Emprego e Formação Profissional, nos termos do disposto no &lt;a href=&#034;https://files.diariodarepublica.pt/1s/2015/06/12500/0453704541.pdf&#034; target=&#034;_blank&#034;&gt;n.º 3 do artigo 12.º do Decreto-Lei n.º 122/2015, de 30 de junho&lt;/a&gt;, deliberou em 3 de outubro de 2023 alterar a data de encerramento das candidaturas ao Prémio Nacional do Artesanato para 31 de outubro de 2023.&lt;/p&gt;\n&lt;p&gt;\n\tCandidate-se &lt;a href=&#034;https://www.iefp.pt/promocao-das-artes-e-oficios?tab=premio-nacional-do-artesanato_candidatura&#034; target=&#034;_blank&#034;&gt;AQUI&lt;/a&gt;!&lt;br /&gt;\n\t&amp;nbsp;&lt;/p&gt;\n","abstract":"As candidaturas ao Prémio Nacional do Artesanato 2023 (PNA 2023) foram prorrogadas até 31 de outubro do presente ano.","title":"Prorrogação de candidaturas ao Prémio Nacional do Artesanato","user":"Paula Cunha Rodrigues"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/1689355/QUALIFICA+iNDUSTRIA+sITE.jpg/8af2607e-0efb-4a96-b382-f3f5d55ff67c?t=1695813800930&imageThumbnail=2","date":"27 Setembro 2023","newsId":"12215890","img":"https://www.iefp.pt/documents/10181/1689355/QUALIFICA+iNDUSTRIA+sITE.jpg/8af2607e-0efb-4a96-b382-f3f5d55ff67c?t=1695813800930","legendaImagem":"","groupId":"10181","modifiedDate":"27-Sep-2023","description":"&lt;p&gt;\n\tO programa, que começa por abranger o setor do têxtil, vestuário e calçado, pretende implementar um plano de formação de até 200 horas com o objetivo de qualificar e requalificar os trabalhadores, apoiando financeiramente as empresas no que diz respeito aos custos de formação e pagamento de salários. Esse apoio por cada trabalhador vai de 7 a 10 euros, por hora.&lt;/p&gt;\n&lt;p&gt;\n\tO financiamento do programa nesta primeira fase é de 10 milhões de euros, dos quais seis milhões são dirigidos ao setor do têxtil e vestuário e quatro milhões de euros ao setor do calçado.&lt;/p&gt;\n&lt;p&gt;\n\tO Qualifica Indústria destina-se a micro, pequenas e médias empresas e pode abranger um máximo de 100 trabalhadores por empresa. Como requisitos, as empresas candidatas têm de ter regularizada a sua situação contributiva e tributária e eventuais&lt;br /&gt;\n\tsituações de apoios financeiros concedidos pelo IEFP e por Fundos Europeus Estruturais e de Investimento.&lt;/p&gt;\n&lt;p&gt;\n\tA formação pode ser dada pelo IEFP, centros especializados ou até pela própria fábrica e pode acontecer em regime presencial, à distância ou misto.&lt;/p&gt;\n&lt;p&gt;\n\tAs candidaturas ao Qualifica Indústria podem ser feitas no &lt;a href=&#034;https://formularios.iefp.pt/index.php/189813?lang=pt&#034;&gt;site do IEFP&lt;/a&gt; até 31 de dezembro de 2024.&lt;/p&gt;\n&lt;p&gt;\n\tMais informações disponíveis em Programa &lt;a href=&#034;https://www.iefp.pt/programa-qualifica-industria&#034; target=&#034;_blank&#034;&gt;&#034;Qualifica Indústria&#034;&lt;/a&gt;.&lt;/p&gt;\n","abstract":"Estão abertas as candidaturas ao Qualifica Indústria, o programa que pretende apoiar as \nempresas do setor industrial que tenham sentido um decréscimo acentuado e súbito de \nencomendas e faturação.","title":"Candidaturas abertas ao Qualifica Indústria","user":"Ana Filipa"},{"imgThumbnail":"https://www.iefp.pt/documents/10181/257390/A.R..jpg/5bc52a62-495a-49e0-881a-c35e5be4b2ec?t=1391512198207&imageThumbnail=2","date":"27 Fevereiro 2018","newsId":"8046798","img":"https://www.iefp.pt/documents/10181/257390/A.R..jpg/5bc52a62-495a-49e0-881a-c35e5be4b2ec?t=1391512198207","legendaImagem":"","groupId":"10181","modifiedDate":"27-Feb-2018","description":"&lt;p style=&#034;text-align: justify;&#034;&gt;\n\tAo homenagear o homem que simboliza a cultura de abertura ao diálogo social, a luta pela participação dos trabalhadores nas empresas ou a militância pelo desenvolvimento de novas abordagens das relações de trabalho, o Prémio Agostinho Roseta pretende manter viva a sua memória e, ao mesmo tempo, trazer para o espaço público aqueles que mais se tenham distinguido na implementação e difusão de boas práticas na melhoria e dignificação do trabalho e do diálogo social ou na realização de estudos e trabalhos de investigação sobre estas matérias.&lt;/p&gt;\n&lt;p style=&#034;text-align: justify;&#034;&gt;\n\t&lt;img alt=&#034;&#034; src=&#034;/documents/10181/8048646/AR+secretarioestado.jpg/ba80916d-129d-47fa-a814-8caf0df99dd1?t=1519742494949&#034; style=&#034;width: 457px; height: 300px;&#034; /&gt;&lt;/p&gt;\n&lt;p style=&#034;text-align: justify;&#034;&gt;\n\tO Prémio Agostinho Roseta, instituído no ano 2000, divide-se em duas categorias: Boas Práticas e Estudos e Trabalhos de Investigação. A cerimónia de entrega da 9ª e 10ª edição do prémio, correspondentes aos anos 2015 e 2017, decorreu no passado dia 23 de fevereiro, nos Serviços Centrais do IEFP, tendo marcado presença familiares e amigos do homenageado, elementos do júri e premiados, além do Secretário de Estado do Emprego.&lt;/p&gt;\n&lt;p style=&#034;text-align: justify;&#034;&gt;\n\t&lt;img alt=&#034;&#034; src=&#034;/documents/10181/257390/premiadoscomjuriepresidente.jpg/52bdef9b-284d-4153-81cc-1a304b0863f9?t=1519742828267&#034; style=&#034;width: 457px; height: 300px;&#034; /&gt;&lt;/p&gt;\n&lt;p&gt;\n\tA 9ª Edição, na Categoria Estudos e Trabalhos de Investigação o Júri premiou o trabalho &#034;Todos temos idade: Em prol do diálogo inter geracional nas organizações&#034;, realizado por Andreia Tatiana Vitória e atribuiu duas Menções Honrosas: uma a &#034;Avaliação de riscos de possíveis acidentes em obra&#034;, realizado por Carlos Rafael da Silva e outra a &#034;Preparados para Trabalhar?&#034;, realizado por Ana Paula Marques e Diana Aguiar Vieira.&lt;/p&gt;\n&lt;p&gt;\n\t&lt;img alt=&#034;&#034; src=&#034;/documents/10181/257390/premiadaefilho.jpg/e7c29ed6-8661-4ce2-a235-97268847cdca?t=1519742854339&#034; style=&#034;width: 457px; height: 300px;&#034; /&gt;&lt;/p&gt;\n&lt;p&gt;\n\tNa Categoria Boas Práticas foi premiado o projeto &#034;Cuidar de pessoas Idosas em Humanitude&#034;, apresentado por O Abrigo &#x2013; Centro de Solidariedade Social de S. João de Ver.&lt;br /&gt;\n\tAinda nesta categoria, o projeto &#034;Plano Municipal para a Igualdade e Responsabilidade Social do Município de Oliveira de Azeméis&#034;, apresentado pela Câmara Municipal de Oliveira de Azeméis, foi distinguido com uma Menção Honrosa.&lt;/p&gt;\n&lt;p&gt;\n\t&lt;br /&gt;\n\tNa 10ª Edição, o Prémio da Categoria Estudos e Trabalhos de Investigação foi atribuído ao &#034;Sistema de apoio à decisão para programação de horários de trabalho com a exposição equilibrada nas fontes de lesões&#034;, realizado por Arminda Maria Ribau Pata, em coautoria com Ana Maria Pinto de Moura.&lt;/p&gt;\n","abstract":"O Prémio Agostinho Roseta, instituído no ano 2000, divide-se em duas categorias: Boas Práticas e Estudos e Trabalhos de Investigação. A cerimónia de entrega da 9ª e 10ª edição do prémio, correspondentes aos anos 2015 e 2017, decorreu no passado dia 23 de fevereiro, nos Serviços Centrais do IEFP, tendo marcado presença familiares e amigos do homenageado, elementos do júri e premiados, além do Secretário de Estado do Emprego.","title":"Prémio Agostinho Roseta","user":"Elsa Castanheira"}];
+var numSlides=16;
+</script>
+
+<div class="container visible-desktop">
+                
+    <div class="ofuscaleft"></div>
+    <div class="ofuscaright"></div>
+    
+    <div class="corredor clearfix">
+     <div class="noticia" data-noticia="0">
+        	<a href="javascript:redirectToNewsPage(0)" >
+	            <img alt="NewsDesktop0" src="https://www.iefp.pt/documents/10181/4974380/Pessoas2030+site.jpg/d326b78c-44e0-470e-b158-bcd44fb56e38?t=1699458498557">
+	            <p>Lançamento do Programa Pessoas 2030</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="1">
+        	<a href="javascript:redirectToNewsPage(1)" >
+	            <img alt="NewsDesktop1" src="https://www.iefp.pt/documents/10181/12295629/seguran%C3%A7a+no+trabalho.jpg/73a8359f-be57-4c18-8b55-47f0223ea9f2?t=1699391753497">
+	            <p>IEFP e a ACT promovem sessão de esclarecimentos sobre segurança no trabalho</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="2">
+        	<a href="javascript:redirectToNewsPage(2)" >
+	            <img alt="NewsDesktop2" src="https://www.iefp.pt/documents/10181/1133478/Logoiefp_2.jpg/8e86c831-f1a7-4c80-8293-ac697257fd9f?t=1614005220820">
+	            <p>Abertura de procedimentos concursais</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="3">
+        	<a href="javascript:redirectToNewsPage(3)" >
+	            <img alt="NewsDesktop3" src="https://www.iefp.pt/documents/10181/12289666/Imagem_655x300_EP19+site.jpg/2f7315a2-2df8-43cd-affb-c65229867d84?t=1698924657057">
+	            <p>Estreou a nova temporada Mudar para Melhor com Fátima Lopes</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="4">
+        	<a href="javascript:redirectToNewsPage(4)" >
+	            <img alt="NewsDesktop4" src="https://www.iefp.pt/documents/10181/1043457/RECRUTAMENTO_CEIS.jpg/036c9f3e-adfa-4d53-9294-872db418ede2?t=1698762515890">
+	            <p>O CEIS recruta profissionais para a sede</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="5">
+        	<a href="javascript:redirectToNewsPage(5)" >
+	            <img alt="NewsDesktop5" src="https://www.iefp.pt/documents/10181/1133478/Logo+IEFP+1/3fab3831-cca4-4165-9719-7db16af76267?t=1404393868173">
+	            <p>Abertura de procedimentos concursais</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="6">
+        	<a href="javascript:redirectToNewsPage(6)" >
+	            <img alt="NewsDesktop6" src="https://www.iefp.pt/documents/10181/445846/2023.11.22-655x300%401x+eures.png/7bf1c38e-e9ae-4523-a4d7-28b051b2a981?t=1698677559227">
+	            <p>Abertas as inscrições para a 4ª edição do Work in Portugal 2023</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="7">
+        	<a href="javascript:redirectToNewsPage(7)" >
+	            <img alt="NewsDesktop7" src="https://www.iefp.pt/documents/10181/12110016/capa+noticia+50+anos+25+abril_coimbra.jpg/7a1ed978-9dee-4a70-80a5-aeff9a0f6abe?t=1698434563607">
+	            <p>Seminário “50 Anos de Políticas de Emprego e Formação Profissional”</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="8">
+        	<a href="javascript:redirectToNewsPage(8)" >
+	            <img alt="NewsDesktop8" src="https://www.iefp.pt/documents/10181/1689355/Foto+Paulo+Watanabe.jpg/05996f01-62b4-456a-8008-c3187410faa9?t=1698068688740">
+	            <p>Paulo, do Japão para o Interior de Portugal</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="9">
+        	<a href="javascript:redirectToNewsPage(9)" >
+	            <img alt="NewsDesktop9" src="https://www.iefp.pt/documents/10181/12271524/RECRUTAMENTO_CAPA_NOTICIA.png/4700df49-e508-4010-8fa6-a279aee1c682?t=1698084317727">
+	            <p>IEFP recruta técnicos superiores para Lisboa</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="10">
+        	<a href="javascript:redirectToNewsPage(10)" >
+	            <img alt="NewsDesktop10" src="https://www.iefp.pt/documents/10181/1043457/ACT_IEFP+SITE.jpg/8977ad46-264e-4178-8ce2-31c6ee586f15?t=1697815194713">
+	            <p>Viseu recebe sessão de esclarecimentos sobre Formação "Exercício de atividades de segurança no trabalho pelo Representante do Empregador / Empregador / Trabalhador Designado”</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="11">
+        	<a href="javascript:redirectToNewsPage(11)" >
+	            <img alt="NewsDesktop11" src="https://www.iefp.pt/documents/10181/4974380/adido+india.jpg/023e92bb-0b61-4aa6-a7c1-f31396df6b44?t=1697135869147">
+	            <p>Adido português reforça equipa na Índia</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="12">
+        	<a href="javascript:redirectToNewsPage(12)" >
+	            <img alt="NewsDesktop12" src="https://www.iefp.pt/documents/10181/1043457/Banner+ETD_IEFP.PNG/689ff4dc-6b67-4f67-9b11-59dd9239209b?t=1697030702960">
+	            <p>IEFP e ACT promovem curso de formação na área da organização dos serviços de segurança no trabalho</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="13">
+        	<a href="javascript:redirectToNewsPage(13)" >
+	            <img alt="NewsDesktop13" src="https://www.iefp.pt/documents/10181/11344649/Design+sem+nome+%2810%29.png/593fd658-3d6f-4d1f-a6ca-62a9318f52e5?t=1685619795993">
+	            <p>Prorrogação de candidaturas ao Prémio Nacional do Artesanato</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="14">
+        	<a href="javascript:redirectToNewsPage(14)" >
+	            <img alt="NewsDesktop14" src="https://www.iefp.pt/documents/10181/1689355/QUALIFICA+iNDUSTRIA+sITE.jpg/8af2607e-0efb-4a96-b382-f3f5d55ff67c?t=1695813800930">
+	            <p>Candidaturas abertas ao Qualifica Indústria</p>
+            </a>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="15">
+        	<a href="javascript:redirectToNewsPage(15)" >
+	            <img alt="NewsDesktop15" src="https://www.iefp.pt/documents/10181/257390/A.R..jpg/5bc52a62-495a-49e0-881a-c35e5be4b2ec?t=1391512198207">
+	            <p>Prémio Agostinho Roseta</p>
+            </a>
+        </div> <!-- noticia -->
+     </div> <!-- corredor -->
+    
+    <div class="container clearfix">
+        <div class="selectors">
+            <header>
+	            <nav class="fright">
+	                <button onclick="recentNewsHP();" title="mostrar noticias anteriores" class="setapequena left social">LeftSlide</button>
+	                <span></span>
+	                <button onclick="olderNewsHP();" title="mostrar noticias seguintes" class="setapequena right social">RightSlide</button>
+	            </nav>
+	            <h4><a href="/noticias">Destaques</a></h4>
+	        </header>
+            <ul class="newslist">
+	         <li data-noticia="0">Lançamento do Programa Pessoas 2030</li>
+             <li data-noticia="1">IEFP e a ACT promovem sessão de esclarecimentos sobre segurança no trabalho</li>
+             <li data-noticia="2">Abertura de procedimentos concursais</li>
+             <li data-noticia="3">Estreou a nova temporada Mudar para Melhor com Fátima Lopes</li>
+             <li data-noticia="4">O CEIS recruta profissionais para a sede</li>
+             <li data-noticia="5">Abertura de procedimentos concursais</li>
+             <li data-noticia="6">Abertas as inscrições para a 4ª edição do Work in Portugal 2023</li>
+             <li data-noticia="7">Seminário “50 Anos de Políticas de Emprego e Formação Profissional”</li>
+             <li data-noticia="8">Paulo, do Japão para o Interior de Portugal</li>
+             <li data-noticia="9">IEFP recruta técnicos superiores para Lisboa</li>
+             <li data-noticia="10">Viseu recebe sessão de esclarecimentos sobre Formação "Exercício de atividades de segurança no trabalho pelo Representante do Empregador / Empregador / Trabalhador Designado”</li>
+             <li data-noticia="11">Adido português reforça equipa na Índia</li>
+             <li data-noticia="12">IEFP e ACT promovem curso de formação na área da organização dos serviços de segurança no trabalho</li>
+             <li data-noticia="13">Prorrogação de candidaturas ao Prémio Nacional do Artesanato</li>
+             <li data-noticia="14">Candidaturas abertas ao Qualifica Indústria</li>
+             <li data-noticia="15">Prémio Agostinho Roseta</li>
+             </ul>
+        </div> <!-- selectors -->
+    </div> <!-- container clearfix -->
+</div> <!-- container -->
+
+
+<div class="container visible-tablet visible-phone">
+    
+    <div class="corredor clearfix">
+     <div class="noticia" data-noticia="0">
+        	<button onclick="redirectToNewsPage(0);">
+	            <img alt="Lançamento do Programa Pessoas 2030" src="https://www.iefp.pt/documents/10181/4974380/Pessoas2030+site.jpg/d326b78c-44e0-470e-b158-bcd44fb56e38?t=1699458498557">
+	            <span class="newsdesc">Lançamento do Programa Pessoas 2030</span>
+            </button>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="1">
+        	<button onclick="redirectToNewsPage(1);">
+	            <img alt="IEFP e a ACT promovem sessão de esclarecimentos sobre segurança no trabalho" src="https://www.iefp.pt/documents/10181/12295629/seguran%C3%A7a+no+trabalho.jpg/73a8359f-be57-4c18-8b55-47f0223ea9f2?t=1699391753497">
+	            <span class="newsdesc">IEFP e a ACT promovem sessão de esclarecimentos sobre segurança no trabalho</span>
+            </button>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="2">
+        	<button onclick="redirectToNewsPage(2);">
+	            <img alt="Abertura de procedimentos concursais" src="https://www.iefp.pt/documents/10181/1133478/Logoiefp_2.jpg/8e86c831-f1a7-4c80-8293-ac697257fd9f?t=1614005220820">
+	            <span class="newsdesc">Abertura de procedimentos concursais</span>
+            </button>
+        </div> <!-- noticia -->
+     <div class="noticia" data-noticia="3">
+        	<button onclick="redirectToNewsPage(3);">
+	            <img alt="Estreou a nova temporada Mudar para Melhor com Fátima Lopes" src="https://www.iefp.pt/documents/10181/12289666/Imagem_655x300_EP19+site.jpg/2f7315a2-2df8-43cd-affb-c65229867d84?t=1698924657057">
+	            <span class="newsdesc">Estreou a nova temporada Mudar para Melhor com Fátima Lopes</span>
+            </button>
+        </div> <!-- noticia -->
+     </div><!-- corredor -->
+</div> <!-- container -->             </div>
+ </div>
+
+				              </div>
+	</div>
+  
+        <a href="/noticias" title="Notícias" class="hidden-desktop">Ver todas</a>
+    </section>
+    
+    <section class="container arkansas">
+    
+    	
+    	<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_pre-carousel">                                    
+		                                       <div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_crifMw3RGZfb_" >
+		<span id="p_56_INSTANCE_crifMw3RGZfb"></span>
+
+		<div class="portlet-body">
+                                                  <div class="portlet-borderless-container" style="">
+					   <div class="portlet-body">
+                                                                                                                                                <div class="journal-content-article">
+					<div id="port-for-ukrain-title">
+	Portugal for Ukraine</div>
+<div class="row-fluid" id="port-for-ukrain">
+	<a href="/portugal-for-ukraine"><img alt="Portugal For Ukraine" src="data:image/png;base64,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" /></a>
+	<div>
+		<p>
+			<a class="nolink" href="/portugal-for-ukraine?tab=contratar-cidadaos-ucranianos" target="_blank"><strong>REGISTO DE OFERTAS</strong></a></p>
+		<p>
+			<a class="nolink" href="/portugal-for-ukraine?tab=empregadores" target="_blank">Se é empregador, manifeste o interesse em contratar um cidadãos deslocado da Ucrânia e conheça os apoios existentes</a></p>
+	</div>
+	<div>
+		<p>
+			<a class="nolink" href="/portugal-for-ukraine?tab=zaavki-na-robotu" target="_blank"><strong>ЗАЯВКИ НА РOБОТУ</strong></a></p>
+		<p>
+			<a class="nolink" href="/portugal-for-ukraine?tab=cidadaos-gromadani" target="_blank">дізнайтеся про основні можливості працевлаштування та залиште тут свою заяву на роботу та резюме</a></p>
+	</div>
+	
+</div> </div>
+
+				                        </div>
+ </div>
+
+				          </div>
+	</div>
+  
+	  </div>
+    	
+    
+		<div class="row-fluid">
+    
+		    <div class="carousel slide slidelinks">
+		    
+		    	<div id="linksSlide" class="carousel-inner"></div>
+		    	<ul class="carousel-indicators ">
+		    	
+		    		<li data-target="#linksSlide">
+		    			<a href="/programa-trabalhos-competencias-verdes-green-skills-jobs">
+		    				<img alt="Job Search Visa Declaration" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/GrenSkills_Jobs_320_320.jpg">
+		    				<span class="title" >
+			    				<p>Trabalhos & Competências Verdes / Green Skills & Jobs</p>
+							</span>
+		    			</a>
+		    		</li>
+		    		
+		    		<li data-target="#linksSlide">
+		    			<a href="/apoios-a-contratacao?tab=programa-avancar">
+		    				<img alt="Programa AVANÇAR" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/Programa_Avancar_320x320.jpg">
+		    				<span class="title" >
+		    					<p>Programa AVANÇAR</p>
+		    				</span>
+		    			</a>
+		    		</li>
+		    		
+		    		<li data-target="#linksSlide">
+		    			<a href="/declaracao-visto-de-procura-de-trabalho">
+		    				<img alt="Job Search Visa Declaration" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/vistos_320x320.jpg">
+		    				<span class="title" >
+			    				<p style="padding-bottom: 0;">Declaração Visto de Procura de Trabalho</p>
+								<p style="padding-bottom: 0;">Job Search Visa Declaration</p>
+								<p>Demande de Visa de Recherche d’Emploi</p>
+							</span>
+		    			</a>
+		    		</li>
+		    		
+		    		<li data-target="#linksSlide">
+		    			<a href="/formador-digital" >
+		    				<img alt="PRO_MOV" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/Formador_Mais_Digital_320x320.png">
+		    				<span class="title" >
+		    					<p>Formador + Digital</p>
+		    				</span>
+		    			</a>
+		    		</li>
+		    		
+		    		<li data-target="#linksSlide">
+		    			<a href="/formacao-emprego-digital">
+		    				<img alt="Formação Emprego + Digital" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/Emprego_Formacao_320x320.png">
+		    				<span class="title" >
+		    					<p>Formação Emprego + Digital</p>
+		    				</span>
+		    			</a>
+		    		</li>
+		    		
+		    		<li data-target="#linksSlide">
+		    			<a href="/cheque-formacao-digital">
+		    				<img alt="Cheque-Formação + Digital" src="https://www.iefp.pt/Public-theme/images/_img/arkansas/Cheque_Formacao_320x320.png">
+		    				<span class="title" >
+		    					<p>Cheque-Formação + Digital</p>
+		    				</span>
+		    			</a>
+		    		</li>
+		    		
+		    	</ul>
+		    </div>
+		</div>
+		
+		<div class="portlet-dropzone empty portlet-column-content portlet-column-content-first" id="layout-column_post-carousel"></div>
+    	
+	</section>
+    
+    <section class="triptico">
+    	
+    	<div class="triport">
+    	 	                                       <div class="portlet-boundary portlet-boundary_TripticoImages_WAR_Eventsportlet_  portlet-static portlet-static-end portlet-borderless tripticoimages-portlet " id="p_p_id_TripticoImages_WAR_Eventsportlet_" >
+		<span id="p_TripticoImages_WAR_Eventsportlet"></span>
+
+		<div class="portlet-body">
+                                                       <div class="portlet-borderless-container" style="">
+					   <div class="portlet-body">
+                                                                                                     <!-- Coimbra.jpg -->
+        <img alt="Coimbra"  src="https://www.iefp.pt/documents/10181/336910/Coimbra.jpg/c072583c-1768-42ce-9478-5028e2ffdd04" class="trip">
+     <!-- Evora.jpg -->
+        <img alt="Evora"  src="https://www.iefp.pt/documents/10181/336910/Evora.jpg/db6a7788-dd1e-4a45-9a5d-54aa3b348f5f" class="trip">
+     <!-- Faro.jpg -->
+        <img alt="Faro"  src="https://www.iefp.pt/documents/10181/336910/Faro.jpg/fa642dc1-f0c5-4d84-986f-4cea438873be" class="trip">
+     <!-- Lisboa.jpg -->
+      <img alt="Lisboa"  src="https://www.iefp.pt/documents/10181/336910/Lisboa.jpg/5a3708a7-e41c-4c45-8dfd-2215a0532023" class="trip">
+     <!-- Porto.jpg -->
+       <img  alt="Porto" src="https://www.iefp.pt/documents/10181/336910/Porto.jpg/00a4d60a-7e36-4a13-93d8-5ece4f55e77b" class="trip">
+                 </div>
+ </div>
+
+				              </div>
+	</div>
+  
+     	</div>
+     	        
+        <div class="grelha"></div>
+        <div class="container">
+	        <div class="row-fluid">
+	            <div class="span4 eventos">
+	                                                      <div class="portlet-boundary portlet-boundary_EventsHP_WAR_Eventsportlet_  portlet-static portlet-static-end portlet-borderless events-portlet " id="p_p_id_EventsHP_WAR_Eventsportlet_" >
+		<span id="p_EventsHP_WAR_Eventsportlet"></span>
+
+		<div class="portlet-body">
+                                                       <div class="portlet-borderless-container" style="">
+					   <div class="portlet-body">
+                                                                                                      <script type="text/javascript" src="/Events-portlet/js/events.js"></script>
+<script type="text/javascript">
+
+var tripticoAjax = 'https://www.iefp.pt/home?p_p_id=EventsHP_WAR_Eventsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage';
+var currentEvent = null;
+var events=[{"day":1},{"day":2},{"day":3},{"day":4},{"day":5},{"day":6},{"day":7},{"day":8},{"day":9},{"day":10},{"day":11},{"day":12},{"day":13},{"day":14},{"day":15},{"day":16},{"day":17},{"day":18},{"day":19},{"day":20},{"day":21},{"day":22},{"day":23},{"day":24},{"day":25},{"day":26},{"day":27},{"day":28},{"day":29},{"day":30}];
+
+</script>
+
+<h3>eventos</h3>
+<button class="left setamedia social" data-slide="prev" onclick="showPreviousMonthHP();">Mês Anterior</button>
+<button class="right setamedia social" data-slide="next" onclick="showNextMonthHP();">Mês Seguinte</button>
+<div id="showCalendar">
+         <script type="text/javascript">
+
+var month=10;
+var year=2023;
+
+</script>
+
+<div id="includeCalendar">
+                                        <div class="taglib-calendar">
+	<table class="lfr-table calendar-panel">
+	
+	<caption>Agenda de eventos IEFP</caption>
+
+	  <tr class="calendar-header">
+			<th colspan="7">
+				Novembro 2023 </th>
+		</tr>
+	 <tr class="portlet-section-header results-header">
+
+		 <th class="first">
+				S </th>
+
+		 <th class="">
+				T </th>
+
+		 <th class="">
+				Q </th>
+
+		 <th class="">
+				Q </th>
+
+		 <th class="">
+				S </th>
+
+		 <th class="">
+				S </th>
+
+		 <th class="last">
+				D </th>
+
+		 </tr>
+	<tr>
+
+		 <td class="calendar-inactive calendar-previous-month first">30</td>
+
+		 <td class="calendar-inactive calendar-previous-month">31</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 1, 2023);"><span>1</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 2, 2023);"><span>2</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 3, 2023);"><span>3</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 4, 2023);"><span>4</span></a>
+			</td>
+
+		 <td class=" last">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 5, 2023);"><span>5</span></a>
+			</td>
+
+		 </tr>
+				<tr>
+
+		 <td class=" first">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 6, 2023);"><span>6</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 7, 2023);"><span>7</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 8, 2023);"><span>8</span></a>
+			</td>
+
+		 <td class="calendar-current-day portlet-section-selected">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 9, 2023);"><span>9</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 10, 2023);"><span>10</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 11, 2023);"><span>11</span></a>
+			</td>
+
+		 <td class=" last">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 12, 2023);"><span>12</span></a>
+			</td>
+
+		 </tr>
+				<tr>
+
+		 <td class=" first">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 13, 2023);"><span>13</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 14, 2023);"><span>14</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 15, 2023);"><span>15</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 16, 2023);"><span>16</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 17, 2023);"><span>17</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 18, 2023);"><span>18</span></a>
+			</td>
+
+		 <td class=" last">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 19, 2023);"><span>19</span></a>
+			</td>
+
+		 </tr>
+				<tr>
+
+		 <td class=" first">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 20, 2023);"><span>20</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 21, 2023);"><span>21</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 22, 2023);"><span>22</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 23, 2023);"><span>23</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 24, 2023);"><span>24</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 25, 2023);"><span>25</span></a>
+			</td>
+
+		 <td class=" last">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 26, 2023);"><span>26</span></a>
+			</td>
+
+		 </tr>
+				<tr>
+
+		 <td class=" first">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 27, 2023);"><span>27</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 28, 2023);"><span>28</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 29, 2023);"><span>29</span></a>
+			</td>
+
+		 <td class="">
+				<a href="javascript:_EventsHP_WAR_Eventsportlet_updateCalendar(10, 30, 2023);"><span>30</span></a>
+			</td>
+
+		 <td class="calendar-inactive calendar-next-month">1</td>
+
+		 <td class="calendar-inactive calendar-next-month">2</td>
+
+		 <td class="calendar-inactive calendar-next-month last">3</td>
+
+		 </tr>
+	</table>
+</div> </div> </div>
+<a href="/eventos" class="fundo">IR PARA AGENDA</a>
+             </div>
+ </div>
+
+				              </div>
+	</div>
+  
+		        </div>
+		        <div class="span4 stats">
+		        	<a href="/estatisticas" title="Ir para estatísticas" class="allin">
+		                <h3>estatísticas</h3>
+		                <img src="/Public-theme/images/_img/stats.png" width="260" height="125" alt="Imagem decorativa estatisticas">
+		                <span class="fundo">VER ESTATÍSTICAS</span>
+	                </a>
+	            </div>
+	        
+		        <div class="span4 share">
+		            <h3>Redes Sociais</h3>
+		            
+		            <a class="sm-link" href="https://www.facebook.com/iefp.pt/" target="_blank" >
+		            	<div>
+		            		<img src="https://www.iefp.pt/Public-theme/images/_img/socials/if_square-facebook_317727.svg" alt="Facebook">
+		            		Siga-nos no facebook
+		            	</div>
+		            </a>
+		            
+		            <a class="sm-link" href="http://www.youtube.com/channel/UCTfurXy2KHH6heIaqb7mjrA" target="_blank" >
+		            	<div>
+		            		<img src="https://www.iefp.pt/Public-theme/images/_img/socials/if_youtube_317714.svg" alt="Youtube">
+		            		Siga-nos no Youtube
+		            	</div>
+		            </a>
+		            
+		            <a class="sm-link" href="https://www.instagram.com/iefp_portugal/" target="_blank" >
+		            	<div>
+		            		<img src="https://www.iefp.pt/Public-theme/images/_img/socials/insta_color.svg" alt="Instagram">
+		            		Siga-nos no Instagram
+		            	</div>
+		            </a>
+		            
+		            <a class="sm-link" href="https://www.linkedin.com/in/iefp/" target="_blank" >
+		            	<div>
+		            		<img src="https://www.iefp.pt/Public-theme/images/_img/socials/linkedin-color.svg" alt="LinkedIn">
+		            		Siga-nos no LinkedIn
+		            	</div>
+		            </a>
+		            
+		        </div>
+	        </div>
+        </div>         
+    </section>
+    <section class="portais container">
+        
+        <div class="portlet-dropzone empty portlet-column-content portlet-column-content-first" id="layout-column_pre-portal"></div>
+    	
+            
+        	<div class="row-fluid">
+                
+                <div class="span4">
+                	<a href="https://www.garantiajovem.pt/" target="_blank" title="Garantia jovem">
+                		<div class="bola"><span class="iefpicon-gjovem"></span></div>
+                		<span>Garantia Jovem</span>
+                		<sub>A Garantia Jovem ajuda-te a encontrar oportunidades de emprego, estágio, educação ou formação.</sub>
+                	</a>
+                </div>
+                <div class="span4">
+                    <a href="http://netforce.iefp.pt" target="blank" title="NetForce">
+                    	<div class="bola"><span class="iefpicon-pc"></span></div>
+                        <span>NetForce</span>
+                        <sub>Portal para Formação e Certificação de Formadores</sub>
+                    </a>
+                </div>
+                <div class="span4">
+                    <a href="https://crcvirtual.iefp.pt/" target="blank" title="CRC Virtual">
+                    	<div class="bola"><span class="iefpicon-mapa"></span></div>
+                        <span>CRC Virtual</span>
+                        <sub>Plataforma colaborativa dos Centros de Recursos em Conhecimento que integram a Rede.</sub>
+                    </a>
+                </div>
+            </div>
+            
+            <a class="bigborderbtn bluebtn" href="#" title="linka para portais iefp">ver todos</a>
+            
+        <div class="portlet-dropzone empty portlet-column-content portlet-column-content-first" id="layout-column_post-portal"></div>
+    	
+            
+    </section>
+    
+                                           <div class="portlet-boundary portlet-boundary_Map_WAR_Mapportlet_  portlet-static portlet-static-end portlet-borderless map-portlet " id="p_p_id_Map_WAR_Mapportlet_" >
+		<span id="p_Map_WAR_Mapportlet"></span>
+
+		<div class="portlet-body">
+                                                       <div class="portlet-borderless-container" style="">
+					   <div class="portlet-body">
+                                                                                                            <link type="text/css" rel="stylesheet" href="/Map-portlet/css/ol.css" />
+<link type="text/css" rel="stylesheet" href="/Map-portlet/css/main.css" />
+
+  <section class="sapomapas">
+	
+	<div class="mapasapo" id='mapa'>
+		<div class="ol-attribution ol-unselectable ol-control ol-uncollapsible"><ul><li>© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.</li></ul></div>
+	</div>
+	<div style="display: none;">
+		<div id="popup" title="">
+		</div>
+	</div>
+
+	<div class="resultados">
+		<p>Resultados da pesquisa</p>
+		<ul class='centros'></ul>
+	
+	</div>
+ 
+	<div class="fullsearch">
+			<label for="keyword" class="collapsed">Pesquisar Centros de Emprego e Formação Profissional</label>
+			<input type="text" id="keyword" value="" placeholder="Pesquisar Centros de Emprego e Formação Profissional" class="placeholdered">
+			<button type="submit" class="biglupa social" onclick="getResults()">Pesquisar</button>	
+	</div>
+
+	<a class="verrede" href="/redecentros">Rede de Serviços</a>
+
+</section>
+
+<script type="text/javascript" src="/Map-portlet/js/ol.js"></script>
+<script type="text/javascript" src="/Map-portlet/js/main.js"></script>
+
+<script type="text/javascript">
+	
+	var ajaxMapasUrl = 'https://www.iefp.pt/home?p_p_id=Map_WAR_Mapportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage';
+		
+	//Tecla Enter para pesquisar no Mapa
+	$('#keyword').on("keypress", function(e) {
+        if (e.keyCode == 13) {
+        		getResults();
+        		return false; // prevent the button click from happening
+        }
+	});
+	
+	//Faz a Pesquisa
+	function getResults(){
+		getLocais();
+	}
+
+</script>             </div>
+ </div>
+
+				              </div>
+	</div>
+  
+  
+    
+    <!-- TODO Ver se isto é mesmo preciso... -->
+    <div class="portlet-dropzone empty portlet-column-content portlet-column-content-only" id="layout-column_column-1"></div>
+</div>
+      <form action="#" id="hrefFm" method="post" name="hrefFm">
+	<span></span>
+	<input type="submit" disabled="disabled" value="none" class="displaynone" />
+</form>
+				
+		<div id="push"></div>
+	</div>
+
+	<footer class="mainfooter">
+		<div class="logopin modern">
+	    	<div class="pin"><img src="/Public-theme/images/_img/logopeqcinza.png" width="40" height="34" alt="logo iefp"></div>
+	        <p>VOLTAR AO TOPO</p>
+	    </div>
+	    
+	    <div class="logopin ieold">
+	    	<img src="/Public-theme/images/_img/logoiefpie.png" width="78" height="78" alt="logo iefp">
+	    </div>
+	    <div class="container">
+	        <div class="row-fluid links">
+	            <div class="span4">
+	                <h6>OFERTAS</h6>
+	                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaEmprego' target="_blank">Ofertas de emprego</a>
+	                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=ofertaFormacao' target="_blank">Ofertas de formação</a>
+	                <a href='https://iefponline.iefp.pt/IEFP/pesquisas/search.do?cat=cv' target="_blank">Procurar trabalhadores</a> 
+	                <h6>AJUDA</h6>
+	                <a href="/mapa-do-site">Mapa do site</a>
+	                <a href="/acessibilidade">Acessibilidade</a>
+	                <a href="/perguntas-frequentes">Perguntas Frequentes / Glossário</a>
+	                <h6>CONTACTE-NOS</h6>
+	                <a href="/contactos">Contactos</a>
+	            </div>
+	            <div class="span4">
+	                <h6>SITES IEFP</h6>
+	                <a target="_blank" href='https://iefponline.iefp.pt/IEFP/' title="Ir para o portal Iefponline">Iefponline</a>
+	                <a target="_blank" href="http://netforce.iefp.pt/" title="Portal para a Formação e Certificação de Formadores">Netforce</a>
+	                <a target="_blank" href="https://crcvirtual.iefp.pt/" title="CRC Virtual -  Rede de Centros de Recursos em Conhecimento.">CRC Virtual</a>
+	                <a target="_blank" href="/eures" title="Eures - Portal Europeu da Mobilidade Profissional">Eures</a>
+	                <a target="_blank" href="https://worldskillsportugal.iefp.pt/" title="Ir para o WorldSkills Portugal">WorldSkills Portugal</a>
+	                <a target="_blank" href="http://elearning.iefp.pt/" title="Plataforma  de Formação eLearning">E-Learning</a>
+	 				<a target="_blank" href="https://www.garantiajovem.pt/" title="Portal Garantia Jovem">Garantia Jovem</a>
+	            </div>
+	            <div class="span4">
+	                <h6>Redes Sociais</h6>
+	                <div class="socialinks">
+	                    <a target="_blank" href="https://www.facebook.com/iefp.pt/" title="IEFP no Facebook"><img src="/Public-theme/images/_img/socials/facebook-32.png" alt="Logo do Facebook"></a>
+	                    <a target="_blank" href="http://www.youtube.com/channel/UCTfurXy2KHH6heIaqb7mjrA" title="Veja o nosso canal - Youtube IEFP"><img src="/Public-theme/images/_img/socials/youtube-32.png" alt="Veja o nosso canal - Youtube IEFP"></a>
+	                    <a target="_blank" href="https://www.instagram.com/iefp_portugal/" title="IEFP no Instagram"><img src="/Public-theme/images/_img/socials/insta-32.png" alt="Logo do Instagram"></a>
+	                    <a target="_blank" href="https://www.linkedin.com/in/iefp/" title="IEFP no LinkedIn"><img src="/Public-theme/images/_img/socials/linkedin-bw-inv.svg" alt="Logo do LinkedIn"></a>
+	                </div>
+	                <h6 class="alto"><a href="javascript: void(0);" id="altoContraste" class="alto">Versão alto contraste <span>A<span>A</span></span></a></h6>
+	                <a id="activateAAFooter" class="turnAA" title="Clique aqui para activar modo acessibilidade" href="javascript: void(0);" onclick="alteraAcessibilidade();">Activar modo acessibilidade</a>
+	            </div>
+	        </div>
+	        <div class="logos">
+	        	<span>
+	        	
+	        		<a href="https://recuperarportugal.gov.pt/" target="_blank" title="Link para PRR">
+		            	<img src="/Public-theme/images/_img/parceiros/PRR.svg" alt="logo PRR">
+		            </a>
+		            <a href="http://www.portugal.gov.pt/" target="_blank" title="Link para sítio do governo de Portugal">
+		                <img src="/Public-theme/images/_img/parceiros/republica_portuguesa_bw.svg" alt="logo governo de Portugal">
+		            </a>
+		            <a href="https://europa.eu/next-generation-eu/index_pt" target="_blank" title="Link para NextGenerationEU">
+		            	<img src="/Public-theme/images/_img/parceiros/NextGenerationEU.svg" alt="logo NextGenerationEU">
+		            </a>
+	        	
+		            <a href="http://www.pofc.qren.pt/" target="_blank" title="Link para Compete">
+		            	<img src="/Public-theme/images/_img/parceiros/compete.png" alt="logo COMPETE">
+		            </a>
+		            
+		            <a href="http://www.europa.eu/" target="_blank" title="Link para sítio da união europeia">
+		                <img src="/Public-theme/images/_img/parceiros/ue.png" alt="logo união europeia">
+		            </a>
+		            <a href="https://ec.europa.eu/eures/home.jsp?lang=pt" target="_blank" title="Link para eures - O Portal Europeu da Mobilidade Profissional">
+		                <img src="/Public-theme/images/_img/parceiros/eures.png" alt="logo eures">
+		            </a>
+		            
+		            <a href="https://worldskillsportugal.iefp.pt/" target="_blank" title="Link para skills Portugal">
+		                <img src="/Public-theme/images/_img/parceiros/WSPT_logo2019.svg" alt="logo skills Portugal">
+		            </a>
+		            <a href="https://www.garantiajovem.pt/" target="_blank" title="Link para portal garantia jovem">
+		            	<img src="/Public-theme/images/_img/parceiros/garantia-jovem.png" alt="logo garantia jovem">
+		        	</a>
+		        	<a href="https://www.portugal2020.pt/" target="_blank" title="Link para portugal 2020" >
+		        		<img src="/Public-theme/images/_img/parceiros/Logo_Portugal_2020_Branco_Cinzento_120.png" style="height:30px;" alt="Portugal 2020">
+		        	</a>
+		        	
+		            <a href="https://www.pesnetwork.eu/pt/" target="_blank" title="Link para o portal www.pesnetwork.eu">
+		                <img style="height: 50px;" src="/Public-theme/images/_img/parceiros/PES_logo_GS.svg" alt="logo portal www.pesnetwork.eu">
+		            </a>
+	            </span>
+	        </div>
+	        
+	        <div class="standards">
+	            <a href="http://www.w3.org/WAI/WCAG1AA-Conformance.html.en" target="_blank" title="Link para página sobre acessiblidade nível AA (inglês)">
+	                <img src="/Public-theme/images/_img/parceiros/aa.png" alt="logo acessibilidade nível AA">
+	            </a>
+	        </div>
+	    </div>
+	</footer>
+	
+	                                  
+
+	                                                                    <script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['103'];
+	         
+// ]]>
+</script>         <script type="text/javascript">
+// <![CDATA[
+
+	
+	$(document).ready(function() {
+	
+	
+		var all_autosugest=[{"sugest":"estágio"}, {"sugest":"estágios profissionais"}, {"sugest":"emprego"}, {"sugest":"subsidio de desemprego"}, {"sugest":"formulários"}, {"sugest":"braga"}, {"sugest":"viseu"}, {"sugest":"eures"}, {"sugest":"tomar"}, {"sugest":"certificação"}];
+		var sugest_forUser = new Array();
+		
+		for(var i=0;i < all_autosugest.length;i++){
+			
+			sugest_forUser[i]=all_autosugest[i].sugest;
+			
+		}
+		
+		$('#search').typeahead({source: sugest_forUser});
+		
+	});
+	
+	function ctem_3_search() {
+		var keywords = document.ctem_3_fm._3_keywords.value;
+		
+		keywords = keywords.replace(/^\s+|\s+$/, '');
+		
+		if (keywords != '') {
+			document.ctem_3_fm.submit();
+		}
+	}
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_crifMw3RGZfb_',
+						portletId: '56_INSTANCE_crifMw3RGZfb',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3d56_INSTANCE_crifMw3RGZfb\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dpre-carousel\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_EventsHP_WAR_Eventsportlet_',
+						portletId: 'EventsHP_WAR_Eventsportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3dEventsHP_WAR_Eventsportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_Map_WAR_Mapportlet_',
+						portletId: 'Map_WAR_Mapportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3dMap_WAR_Mapportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_NewsHighlightsHP_WAR_Newsportlet_',
+						portletId: 'NewsHighlightsHP_WAR_Newsportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3dNewsHighlightsHP_WAR_Newsportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_TripticoImages_WAR_Eventsportlet_',
+						portletId: 'TripticoImages_WAR_Eventsportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10723\x26p_p_id\x3dTripticoImages_WAR_Eventsportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+					}
+				);
+			AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	 })();});
+// ]]>
+</script>     <script src="https://www.iefp.pt/Public-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=pt_PT&amp;b=6102&amp;t=1699022825000" type="text/javascript"></script>
+
+   <script type="text/javascript">
+		// <![CDATA[
+			 const style = document.createElement('style');
+
+style.textContent = `
+#port-for-ukrain-title {
+    font-weight: 300;
+    padding-bottom: 7px;
+    border-bottom: 3px solid #2C9D36;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+    margin-top: -20px;
+}
+
+#port-for-ukrain {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+#port-for-ukrain > *:not(:first-child) {
+    padding: 1rem;
+}
+
+#port-for-ukrain > * {
+    align-self: center;
+    flex: 45%;
+}
+
+#port-for-ukrain > *:hover{
+    box-shadow: 0 0 4px rgb(0 0 0 / 90%);
+}
+
+.nolink {
+color: black;
+text-decoration: none;
+}
+.flag {width: 2.8em;
+    float: left;
+    margin-right: 1em;
+    max-height: 1.5em;
+}
+
+
+p.nomargin{
+   margin-bottom: 0;
+}
+`;
+
+document.head.appendChild(style);
+		// ]]>
+	</script>
+  
+	
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-T24RTZTV27" type="text/javascript"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-T24RTZTV27');
+	</script>
+		
+</body>
+</html>
+
+ 

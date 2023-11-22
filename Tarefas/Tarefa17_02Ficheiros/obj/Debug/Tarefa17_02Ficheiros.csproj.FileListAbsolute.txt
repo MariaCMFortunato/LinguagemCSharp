@@ -1,0 +1,10 @@
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\bin\Debug\Tarefa17_02Ficheiros.exe.config
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\bin\Debug\Tarefa17_02Ficheiros.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\bin\Debug\Tarefa17_02Ficheiros.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.Properties.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.csproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.exe
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\Tarefa17_02Ficheiros\obj\Debug\Tarefa17_02Ficheiros.pdb
