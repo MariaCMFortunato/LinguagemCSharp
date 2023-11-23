@@ -45,5 +45,10 @@ namespace WindowsFormsMySql
             inserirFormandos.Show();
             inserirFormandos.Activate();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

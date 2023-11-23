@@ -61,7 +61,7 @@
             // 
             this.button3.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.Teal;
-            this.button3.Location = new System.Drawing.Point(208, 79);
+            this.button3.Location = new System.Drawing.Point(209, 75);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(131, 65);
             this.button3.TabIndex = 2;
@@ -79,6 +79,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

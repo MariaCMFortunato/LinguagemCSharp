@@ -83,3 +83,4 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.exe
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.pdb
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormInserirFormandos.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.Principal.resources
