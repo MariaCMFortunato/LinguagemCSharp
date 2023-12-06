@@ -83,3 +83,8 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.exe
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.pdb
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormInserirFormandos.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormInserirFormandos.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormPrincipal.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormAtualizarFormandos.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormListarFormandos.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormApagarFormando.resources

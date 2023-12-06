@@ -105,10 +105,56 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormApagarFormando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApagarFormando.Designer.cs">
+      <DependentUpon>FormApagarFormando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtualizarFormandos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtualizarFormandos.Designer.cs">
+      <DependentUpon>FormAtualizarFormandos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInserirFormandos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInserirFormandos.Designer.cs">
+      <DependentUpon>FormInserirFormandos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarFormandos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarFormandos.Designer.cs">
+      <DependentUpon>FormListarFormandos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geral.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormApagarFormando.resx">
+      <DependentUpon>FormApagarFormando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtualizarFormandos.resx">
+      <DependentUpon>FormAtualizarFormandos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInserirFormandos.resx">
+      <DependentUpon>FormInserirFormandos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarFormandos.resx">
+      <DependentUpon>FormListarFormandos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -118,6 +164,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -132,6 +179,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesquisa %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inserir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Listar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atualizar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apagador %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

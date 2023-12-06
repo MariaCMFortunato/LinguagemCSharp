@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSalario", "WebSalario\WebSalario.csproj", "{ECE88CCD-C334-4239-9967-9BFE0A53B687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE88CCD-C334-4239-9967-9BFE0A53B687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE88CCD-C334-4239-9967-9BFE0A53B687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE88CCD-C334-4239-9967-9BFE0A53B687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE88CCD-C334-4239-9967-9BFE0A53B687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC290D4-FE5F-4B4C-9632-2B31FCB1CC8D}
+	EndGlobalSection
+EndGlobal
