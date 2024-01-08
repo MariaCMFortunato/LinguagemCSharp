@@ -6,6 +6,7 @@
 <head runat="server">
     <title>Inquérito</title>
     <style type="text/css">
+        /*<link>*/
         .auto-style1 {
             width: 500px;
         }
@@ -72,6 +73,7 @@
                     </td>
                     <td class="auto-style5">
                         <asp:RadioButton ID="BFC" runat="server" Text="BFC" GroupName="Clube" />
+                    </td>
                </tr>
                 </table>
             <br />

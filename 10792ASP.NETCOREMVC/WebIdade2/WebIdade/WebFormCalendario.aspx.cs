@@ -69,9 +69,9 @@ namespace WebIdade
                 }
 
                 Label1.Text = idade.ToString() + "anos";
-                horoscopo(datanascimento);
-                Label4.Text = "Já viveu " + (hoje - datanascimento).TotalDays.ToString() + " dia(s)";
-                Label5.Text = "Signo: " + horoscopo(datanascimento);
+                Horoscopo(datanascimento);
+                Label4.Text = "Já viveu " + (hoje - datanascimento).TotalDays.ToString() + " dia(s)!";
+                Label5.Text = "Signo: " + Horoscopo(datanascimento);
             }
         }
 
@@ -84,6 +84,7 @@ namespace WebIdade
                 Calendar1.SelectedDate = Calendar1.TodaysDate;
                 Label2.Text = Calendar1.SelectedDate.ToShortDateString();
                 Label3.Text = "";
+                // limpoar os outros componentes
             }
             catch 
             {
@@ -114,7 +115,7 @@ namespace WebIdade
         {
 
         }
-        string horoscopo (DateTime data) 
+        string Horoscopo (DateTime data) 
         {
             string signo = string.Empty;
             int mes, dia;
@@ -194,6 +195,8 @@ namespace WebIdade
             }
             return "";
         }
+
+        String 
 
 
     }
