@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formconfig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Documentos\\01Docs\\06_IEF_FORMACAO\\001_Programador_Informatica\\0814-ProgramacaoEmSQL_AdrianoMarques\\Sess\u00F5es\\2024-04-05\\DBConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:05:19.673Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormConfig.Designer.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.Designer.cs",
+              "RelativeDocumentMoniker": "FormConfig.Designer.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.Designer.cs",
+              "RelativeToolTip": "FormConfig.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:03:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormConfig.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.cs",
+              "RelativeDocumentMoniker": "FormConfig.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.cs",
+              "RelativeToolTip": "FormConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:46:40.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormConfig.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.cs",
+              "RelativeDocumentMoniker": "FormConfig.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormConfig.cs [Design]",
+              "RelativeToolTip": "FormConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:33:28.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:41:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DBConnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\DBConnect.cs",
+              "RelativeToolTip": "DBConnect.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:39:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAutenticacao.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "FormAutenticacao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAutenticacao.cs [Design]",
+              "RelativeToolTip": "FormAutenticacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:32:45.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\01Docs\\06_IEF_FORMACAO\\001_Programador_Informatica\\0814-ProgramacaoEmSQL_AdrianoMarques\\Sess\u00F5es\\2024-04-05\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\01Docs\\06_IEF_FORMACAO\\001_Programador_Informatica\\0814-ProgramacaoEmSQL_AdrianoMarques\\Sess\u00F5es\\2024-04-05\\DBConnect.cs",
+              "ToolTip": "G:\\Documentos\\01Docs\\06_IEF_FORMACAO\\001_Programador_Informatica\\0814-ProgramacaoEmSQL_AdrianoMarques\\Sess\u00F5es\\2024-04-05\\DBConnect.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\01Docs\\06_IEF_FORMACAO\\001_Programador_Informatica\\0814-ProgramacaoEmSQL_AdrianoMarques\\Sess\u00F5es\\2024-04-05\\DBConnect.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:00:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAutenticacao.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "FormAutenticacao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAutenticacao.cs",
+              "RelativeToolTip": "FormAutenticacao.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:32:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Geral.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\Geral.cs",
+              "RelativeDocumentMoniker": "Geral.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\Geral.cs",
+              "RelativeToolTip": "Geral.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:34:13.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

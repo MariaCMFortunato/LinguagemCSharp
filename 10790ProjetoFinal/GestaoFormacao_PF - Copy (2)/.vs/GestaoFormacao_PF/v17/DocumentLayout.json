@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInserirFormador.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs",
+              "RelativeDocumentMoniker": "FormInserirFormador.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs",
+              "RelativeToolTip": "FormInserirFormador.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:45:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormInserirFormador.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs",
+              "RelativeDocumentMoniker": "FormInserirFormador.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs [Design]",
+              "RelativeToolTip": "FormInserirFormador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:45:01.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAtualizarFormador.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormador.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormador.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormador.cs",
+              "RelativeToolTip": "FormAtualizarFormador.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:47:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAtualizarFormador.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormador.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormador.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormador.cs [Design]",
+              "RelativeToolTip": "FormAtualizarFormador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:32:51.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\DBconnect.cs",
+              "RelativeDocumentMoniker": "DBconnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\DBconnect.cs",
+              "RelativeToolTip": "DBconnect.cs",
+              "ViewState": "AQIAAJ0BAAAAAAAAAAAmwKcBAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:06:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:59:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:51:25.523Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

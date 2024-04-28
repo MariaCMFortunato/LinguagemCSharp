@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\formfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\formapagarfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formapagarfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\sgcentroformacaoprojfinal - copy\\formteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\sgcentroformacaoprojfinal - copy\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\formfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:formfichageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E161A345-E4C9-4948-A54C-C86D479C1E66}|SGCentroFormacaoProjFinal.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTeste.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormTeste.cs",
+              "RelativeDocumentMoniker": "FormTeste.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormTeste.cs [Design]",
+              "RelativeToolTip": "FormTeste.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:12:11.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormApagarFichaGeral.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormApagarFichaGeral.cs",
+              "RelativeDocumentMoniker": "FormApagarFichaGeral.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormApagarFichaGeral.cs [Design]",
+              "RelativeToolTip": "FormApagarFichaGeral.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:21:00.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Geral.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\Geral.cs",
+              "RelativeDocumentMoniker": "Geral.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\Geral.cs",
+              "RelativeToolTip": "Geral.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:03:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\DBconnect.cs",
+              "RelativeDocumentMoniker": "DBconnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\DBconnect.cs",
+              "RelativeToolTip": "DBconnect.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwHcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:14:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormFichaGeral.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormFichaGeral.cs",
+              "RelativeDocumentMoniker": "FormFichaGeral.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormFichaGeral.cs",
+              "RelativeToolTip": "FormFichaGeral.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwGgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:52:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormFichaGeral.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormFichaGeral.cs",
+              "RelativeDocumentMoniker": "FormFichaGeral.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormFichaGeral.cs [Design]",
+              "RelativeToolTip": "FormFichaGeral.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:42:25.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:22:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\SGCentroFormacaoProjFinal - Copy\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:18:08.51Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

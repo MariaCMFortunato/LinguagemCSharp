@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GestaoFormacao_PF</RootNamespace>
+    <AssemblyName>GestaoFormacao_PF</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector NET 8.3.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBconnect.cs" />
+    <Compile Include="FormApagarFormando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApagarFormando.Designer.cs">
+      <DependentUpon>FormApagarFormando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtualizarFormador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtualizarFormador.Designer.cs">
+      <DependentUpon>FormAtualizarFormador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtualizarFormando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtualizarFormando.Designer.cs">
+      <DependentUpon>FormAtualizarFormando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInserirFormador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInserirFormador.Designer.cs">
+      <DependentUpon>FormInserirFormador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInserirFormando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInserirFormando.Designer.cs">
+      <DependentUpon>FormInserirFormando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarFormandos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarFormandos.Designer.cs">
+      <DependentUpon>FormListarFormandos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTeste.Designer.cs">
+      <DependentUpon>FormTeste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geral.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormApagarFormando.resx">
+      <DependentUpon>FormApagarFormando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtualizarFormador.resx">
+      <DependentUpon>FormAtualizarFormador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtualizarFormando.resx">
+      <DependentUpon>FormAtualizarFormando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInserirFormador.resx">
+      <DependentUpon>FormInserirFormador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInserirFormando.resx">
+      <DependentUpon>FormInserirFormando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarFormandos.resx">
+      <DependentUpon>FormListarFormandos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTeste.resx">
+      <DependentUpon>FormTeste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filter.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
