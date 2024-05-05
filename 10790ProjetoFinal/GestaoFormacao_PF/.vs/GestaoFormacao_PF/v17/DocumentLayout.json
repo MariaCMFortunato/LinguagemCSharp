@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formlistarmodulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formlistarmodulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formlistarmodulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formlistarmodulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirmodacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirmodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirmodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminseriracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminseriracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +74,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:27:46.951Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAtualizarFormando.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormando.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormando.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormando.cs",
+              "RelativeToolTip": "FormAtualizarFormando.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:02:30.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAtualizarFormando.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormando.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormando.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormando.cs [Design]",
+              "RelativeToolTip": "FormAtualizarFormando.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:02:26.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInserirFormando.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormando.cs",
+              "RelativeDocumentMoniker": "FormInserirFormando.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormando.cs",
+              "RelativeToolTip": "FormInserirFormando.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:47:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInserirFormando.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormando.cs",
+              "RelativeDocumentMoniker": "FormInserirFormando.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormando.cs [Design]",
+              "RelativeToolTip": "FormInserirFormando.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:47:47.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAtualizarTurma.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarTurma.cs",
+              "RelativeDocumentMoniker": "FormAtualizarTurma.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarTurma.cs [Design]",
+              "RelativeToolTip": "FormAtualizarTurma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:30:47.342Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -40,60 +159,113 @@
               "RelativeDocumentMoniker": "DBconnect.cs",
               "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\DBconnect.cs",
               "RelativeToolTip": "DBconnect.cs",
-              "ViewState": "AQIAAOoBAAAAAAAAAAAqwDIDAABnAAAA",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAQwJMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T13:06:03.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormListarModulos.cs",
-              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormListarModulos.cs",
-              "RelativeDocumentMoniker": "FormListarModulos.cs",
-              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormListarModulos.cs",
-              "RelativeToolTip": "FormListarModulos.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAADIAAABGAAAA",
+              "DocumentIndex": 7,
+              "Title": "FormAtualizarTurma.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarTurma.cs",
+              "RelativeDocumentMoniker": "FormAtualizarTurma.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarTurma.cs",
+              "RelativeToolTip": "FormAtualizarTurma.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T19:51:30.25Z",
+              "WhenOpened": "2024-05-01T14:37:04.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPrincipal.cs [Design]",
-              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormPrincipal.cs",
-              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs [Design]",
-              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "FormAtualizarModAcao.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarModAcao.cs",
+              "RelativeDocumentMoniker": "FormAtualizarModAcao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarModAcao.cs [Design]",
+              "RelativeToolTip": "FormAtualizarModAcao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:27:46.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-01T11:43:56.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormListarModulos.cs [Design]",
-              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormListarModulos.cs",
-              "RelativeDocumentMoniker": "FormListarModulos.cs",
-              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormListarModulos.cs [Design]",
-              "RelativeToolTip": "FormListarModulos.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "FormInserirTurma.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirTurma.cs",
+              "RelativeDocumentMoniker": "FormInserirTurma.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirTurma.cs [Design]",
+              "RelativeToolTip": "FormInserirTurma.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T19:07:09.402Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-01T11:55:20.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormPrincipal.cs",
               "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormPrincipal.cs",
               "RelativeToolTip": "FormPrincipal.cs",
-              "ViewState": "AQIAALwAAAAAAAAAAAAqwM0AAAABAAAA",
+              "ViewState": "AQIAACIBAAAAAAAAAAAAADsBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T12:59:55.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T11:01:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormInserirModAcao.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModAcao.cs",
+              "RelativeDocumentMoniker": "FormInserirModAcao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModAcao.cs",
+              "RelativeToolTip": "FormInserirModAcao.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAHUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:52:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormInserirModAcao.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModAcao.cs",
+              "RelativeDocumentMoniker": "FormInserirModAcao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModAcao.cs [Design]",
+              "RelativeToolTip": "FormInserirModAcao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:34:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormInserirModulo.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModulo.cs",
+              "RelativeDocumentMoniker": "FormInserirModulo.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirModulo.cs [Design]",
+              "RelativeToolTip": "FormInserirModulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:33:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormInserirFormador.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs",
+              "RelativeDocumentMoniker": "FormInserirFormador.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormador.cs [Design]",
+              "RelativeToolTip": "FormInserirFormador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:38:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormInserirAcao.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirAcao.cs",
+              "RelativeDocumentMoniker": "FormInserirAcao.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirAcao.cs [Design]",
+              "RelativeToolTip": "FormInserirAcao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:35:33.551Z"
             }
           ]
         }
