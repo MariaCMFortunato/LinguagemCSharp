@@ -1,0 +1,7 @@
+nome;morada;contacto;data_nascimento;
+RUBÉN AMORIM;rua de cima;;27/01/1985 00:00:00;
+PEDRO ALEGRIA;rua de lado;;09/09/1976 00:00:00;
+MARISA ALELUIA;rua de baixo;;14/11/1800 00:00:00;
+FILOMENA ARAÚJO;rua do outro;;07/03/1900 00:00:00;
+JOSÉ MARIA;rua pequena;;21/08/2000 00:00:00;
+CARLA GOMES;rua grande;;05/02/1850 00:00:00;

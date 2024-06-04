@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\formatualizarformandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formatualizarformandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\formatualizarnacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formatualizarnacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\formatualizarnacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formatualizarnacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\formatualizarformandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formatualizarformandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\814programacaoemc#\\gestaoformandos02\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E4FF52-F01E-44F7-BD41-93CFD58553B2}|GestaoFormandos02.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AQIAAJMBAAAAAAAAAAAqwJsBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:57:21.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAtualizarFormandos.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarFormandos.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormandos.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarFormandos.cs",
+              "RelativeToolTip": "FormAtualizarFormandos.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:46:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAtualizarNacionalidade.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarNacionalidade.cs",
+              "RelativeDocumentMoniker": "FormAtualizarNacionalidade.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarNacionalidade.cs",
+              "RelativeToolTip": "FormAtualizarNacionalidade.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:47:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAtualizarNacionalidade.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarNacionalidade.cs",
+              "RelativeDocumentMoniker": "FormAtualizarNacionalidade.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarNacionalidade.cs [Design]",
+              "RelativeToolTip": "FormAtualizarNacionalidade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:46:14.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAtualizarFormandos.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarFormandos.cs",
+              "RelativeDocumentMoniker": "FormAtualizarFormandos.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormAtualizarFormandos.cs [Design]",
+              "RelativeToolTip": "FormAtualizarFormandos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:46:02.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DBConnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\DBConnect.cs",
+              "RelativeToolTip": "DBConnect.cs",
+              "ViewState": "AQIAADYFAAAAAAAAAAAqwEQFAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:27:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\814ProgramacaoEmC#\\GestaoFormandos02\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:54:43.393Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

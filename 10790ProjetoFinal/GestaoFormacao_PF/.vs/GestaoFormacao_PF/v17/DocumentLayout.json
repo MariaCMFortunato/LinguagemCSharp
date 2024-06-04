@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formatualizarformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,15 +19,15 @@
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:forminserirformando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10790projetofinal\\gestaoformacao_pf\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4311F2CF-E168-40BB-A0B6-DFD601F49CB6}|GestaoFormacao_PF.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -86,8 +86,7 @@
               "RelativeToolTip": "FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T17:27:46.951Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarFormando.cs [Design]",
               "RelativeToolTip": "FormAtualizarFormando.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T08:02:26.311Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-03T08:02:26.311Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "FormInserirFormando.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAwwEUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:47:50.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:47:50.714Z"
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormInserirFormando.cs [Design]",
               "RelativeToolTip": "FormInserirFormando.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:47:47.884Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-03T07:47:47.884Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10790ProjetoFinal\\GestaoFormacao_PF\\FormAtualizarTurma.cs [Design]",
               "RelativeToolTip": "FormAtualizarTurma.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:30:47.342Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-01T14:30:47.342Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "DBconnect.cs",
               "ViewState": "AQIAAAsBAAAAAAAAAAAQwJMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T13:06:03.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T13:06:03.287Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "FormAtualizarTurma.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAgwD0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:37:04.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T14:37:04.984Z"
             },
             {
               "$type": "Document",
