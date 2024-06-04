@@ -37,7 +37,6 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySq
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.Properties.Resources.resources
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.csproj.GenerateResource.cache
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.csproj.CoreCompileInputs.cache
-G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.csproj.CopyComplete
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.exe
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.pdb
 G:\Documentos\MeusProjetos\Linguagem_CSharp\Tarefas\WindowsFormsMySql\bin\Debug\WindowsFormsMySql.exe.config
@@ -88,3 +87,4 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySq
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormAtualizarFormandos.resources
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormListarFormandos.resources
 G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsFormsMySql.FormApagarFormando.resources
+G:\Documentos\MeusProjetos\Linguagem_CSharp\3935ProgramacaoEmC#\WindowsFormsMySql\obj\Debug\WindowsF.F2EDA167.Up2Date
