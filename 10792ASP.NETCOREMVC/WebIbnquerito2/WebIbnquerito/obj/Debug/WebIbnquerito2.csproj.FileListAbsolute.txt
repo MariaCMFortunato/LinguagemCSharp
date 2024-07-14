@@ -54,7 +54,6 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\W
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnquerito2.csproj.AssemblyReference.cache
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnquerito2.csproj.CoreCompileInputs.cache
-G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnquerito2.csproj.CopyComplete
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnquerito.dll
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnquerito.pdb
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\bin\EntityFramework.dll
@@ -65,3 +64,4 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\W
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\bin\EntityFramework.xml
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\bin\EntityFramework.SqlServer.xml
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\bin\System.Data.SQLite.xml
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebIbnquerito2\WebIbnquerito\obj\Debug\WebIbnqu.9ED69B63.Up2Date

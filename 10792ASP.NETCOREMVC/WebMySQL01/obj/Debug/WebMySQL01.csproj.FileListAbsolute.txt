@@ -112,6 +112,10 @@ G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\W
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\WebMySQL01.pdb
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.csproj.AssemblyReference.cache
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
-G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.dll
 G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.pdb
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\System.Memory.dll
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\System.Threading.Tasks.Extensions.dll
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\System.Numerics.Vectors.dll
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\bin\System.Buffers.dll
+G:\Documentos\MeusProjetos\Linguagem_CSharp\10792ASP.NETCOREMVC\WebMySQL01\obj\Debug\WebMySQL01.csproj.Up2Date

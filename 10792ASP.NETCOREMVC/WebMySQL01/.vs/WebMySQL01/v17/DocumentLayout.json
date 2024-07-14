@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10792asp.netcoremvc\\webmysql01\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}|WebMySQL01.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx.cs",
+              "RelativeDocumentMoniker": "index.aspx.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx.cs",
+              "RelativeToolTip": "index.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwCYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:38:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\DBconnect.cs",
+              "RelativeDocumentMoniker": "DBconnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\DBconnect.cs",
+              "RelativeToolTip": "DBconnect.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAAAOYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:26:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebMySQL01\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-01-10T21:25:42.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

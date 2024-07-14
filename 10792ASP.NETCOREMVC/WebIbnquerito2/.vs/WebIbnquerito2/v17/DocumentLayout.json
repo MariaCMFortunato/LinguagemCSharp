@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|g:\\documentos\\meusprojetos\\linguagem_csharp\\10792asp.netcoremvc\\webibnquerito2\\webibnquerito\\webforminquerito2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|solutionrelative:webibnquerito\\webforminquerito2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\webibnquerito\\css\\folhaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|solutionrelative:webibnquerito\\css\\folhaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\webibnquerito\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|solutionrelative:webibnquerito\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\webibnquerito\\webforminquerito2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F983A25-8D21-4AF5-A74D-A55A65D0F21F}|WebIbnquerito\\WebIbnquerito2.csproj|solutionrelative:webibnquerito\\webforminquerito2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebFormInquerito2.aspx.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\WebFormInquerito2.aspx.cs",
+              "RelativeDocumentMoniker": "WebIbnquerito\\WebFormInquerito2.aspx.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\WebFormInquerito2.aspx.cs",
+              "RelativeToolTip": "WebIbnquerito\\WebFormInquerito2.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwGMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-02T11:33:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\DBConnect.cs",
+              "RelativeDocumentMoniker": "WebIbnquerito\\DBConnect.cs",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\DBConnect.cs",
+              "RelativeToolTip": "WebIbnquerito\\DBConnect.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA9wC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T16:53:17.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebFormInquerito2.aspx",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\WebFormInquerito2.aspx",
+              "RelativeDocumentMoniker": "WebIbnquerito\\WebFormInquerito2.aspx",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\WebFormInquerito2.aspx",
+              "RelativeToolTip": "WebIbnquerito\\WebFormInquerito2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-01-03T19:47:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "folhaestilo.css",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\css\\folhaestilo.css",
+              "RelativeDocumentMoniker": "WebIbnquerito\\css\\folhaestilo.css",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_CSharp\\10792ASP.NETCOREMVC\\WebIbnquerito2\\WebIbnquerito\\css\\folhaestilo.css",
+              "RelativeToolTip": "WebIbnquerito\\css\\folhaestilo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-01-03T20:19:58.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
